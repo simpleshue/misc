@@ -40,8 +40,8 @@ Mostly static stretch
 
     * Trunk side bend
 
-        ![trunk side bend](/assets/images/running/stretch_trunk_side_bend.png)
+        ![trunk side bend]({{ site.baseurl }}/assets/images/running/stretch_trunk_side_bend.png)
 
     * On a mat
     
-        ![on a math](/assets/images/running/stretch_it_band_on_mat.png)
+        ![on a math]({{ site.baseurl }}/assets/images/running/stretch_it_band_on_mat.png)
