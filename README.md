@@ -1,13 +1,9 @@
 
-main page: https://simpleshue.github.io/misc
-action: https://github.com/simpleshue/misc/actions
+* main page: https://simpleshue.github.io/misc
+* action: https://github.com/simpleshue/misc/actions
 
 Templates:
 
----
-title: name
-layout: page
----
 
 [^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 [Just the Docs] to learn more about how to use this theme.
