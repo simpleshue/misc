@@ -35,10 +35,13 @@ Mostly static stretch
 1. Lounge
 
   ![lounge](/assets/images/running/stretch_lounge.png)
+
 1. IT-band
 
     * Trunk side bend
+
         ![trunk side bend](/assets/images/running/stretch_trunk_side_bend.png)
 
     * On a mat
+    
         ![on a math](/assets/images/running/stretch_it_band_on_mat.png)
