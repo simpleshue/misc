@@ -1,7 +1,7 @@
 ---
 title: test32
 layout: page
-parent: 
+parent: test2
 ---
 
 

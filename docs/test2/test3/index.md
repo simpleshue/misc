@@ -1,5 +1,5 @@
 ---
-title: test31
+title: test3
 layout: page
 parent: test2
 ---
