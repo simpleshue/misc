@@ -90,6 +90,14 @@ Various other foot drills also helps to improve self-awareness of leg movement.
 
 Trail running is also a very good way to keep your foot swift.
 
+## Sample Training For Runners
+
+1. General [warmps](warmup_cooldown.html) first.
+1. (Start from large muscle groups) Squat/lounge
+1. Calf/Toe raise
+1. Plank - flat/side
+1. Glute bridge
+
 ---
 
 [Stephen Scullion's youtube video: GYM routine for runners](https://youtu.be/SnNlrFcXjVU?si=jZTqNn0CksOiQkXD)
