@@ -5,7 +5,7 @@ parent: running
 ---
 
 
-# Warm-up  
+## Warm-up  
 
 Main focus is to warm up and activate  muscle, not excessive stretching.
 
@@ -25,7 +25,7 @@ A typical routine:
     * [Fast leg drill](https://www.youtube.com/watch?v=YmLMXo3xzPE&list=PLuQydQQRBwJ8Q7IFCljC7pNHr2ucdhJee&index=7)
     * High knees
 
-# Cool-down
+## Cool-down
 
 Mostly static stretch
 
@@ -33,12 +33,12 @@ Mostly static stretch
 1. Hamstring (e.g., downward dog)
 1. Quads
 1. Lounge
+
   ![lounge](/assets/images/running/stretch_lounge.png)
 1. IT-band
-  * Trunk side bend
 
-  ![trunk side bend](/assets/images/running/stretch_trunk_side_bend.png)
+    * Trunk side bend
+        ![trunk side bend](/assets/images/running/stretch_trunk_side_bend.png)
 
-  * On a mat
-
-  ![on a math](/assets/images/running/stretch_it_band_on_mat.png)
+    * On a mat
+        ![on a math](/assets/images/running/stretch_it_band_on_mat.png)
