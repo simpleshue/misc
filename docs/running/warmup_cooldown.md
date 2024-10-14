@@ -34,7 +34,7 @@ Mostly static stretch
 1. Quads
 1. Lounge
 
-  ![lounge](/assets/images/running/stretch_lounge.png)
+  ![lounge]({{ site.baseurl }}/assets/images/running/stretch_lounge.png)
 
 1. IT-band
 
