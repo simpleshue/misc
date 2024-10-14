@@ -46,7 +46,6 @@ parent: running
 1. Hip flexion with bands
     * Similar to calf stretch when pushing towards a wall, use a rubber band while lifting the leg high.
     * Focus on Iliopsoas (髂腰肌) - for lifting thighs.
-    * Very few exercises focus on Iliopsoas!
 
 ### Core
 
@@ -61,6 +60,19 @@ parent: running
 * Plyometrics
 * Explosive reistance
 * Strength
+
+### Muscle for running fast
+
+When running faster, the most demand longer strides comes from
+
+* Glute
+* Quads
+* Calves
+
+But the demand for faster cadence is from
+
+* Hamstring – for lift lower legs
+* Iliopsoas (髂腰肌) - for lifting thighs
 
 Most training should probably be done for the raw strength, which builds the base. Explosive and swift aspects should also be practiced for both speed and safety.
 
