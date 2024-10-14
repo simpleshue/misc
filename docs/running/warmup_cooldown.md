@@ -1,6 +1,7 @@
 ---
 title: Warning Up & Cool Down
 layout: page
+parent: running
 ---
 
 
