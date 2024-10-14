@@ -1,8 +1,0 @@
----
-title: test31
-layout: page
-parent: test2
----
-
-
-test3
