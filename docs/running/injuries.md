@@ -4,6 +4,18 @@ layout: page
 parent: running
 ---
 
+## Overall Approach
+
+Honestly, I have been many injuries myself, and my approach is always to put my body's message before everything else.
+
+* Stop at any median level discomfort
+* Test, diagonize, evaluation before return to normal training
+* Be sensitive
+* Monitor body's condition, and adjust training according
+  * e.g., resting heart rate is a great indication of overall body condition
+* fit in cross/strength training into the training plan
+* **Strong runners** are much less likely to get injuries. So don't be afraid of weight training.
+
 
 ## Top Concern
 
@@ -67,14 +79,9 @@ Remediations:
 
 It might be the hottest topic everyone cares. But, I don't believe too much in the shoes' mysterious mileage limit. I'd rather pay attention to how it feels on my feet everyday.
 
-## My Overall Approach
 
-Honestly, I have been many injuries myself, and my approach is always to put my body's message before everything else.
+## Common Injuries
 
-* Stop at any median level discomfort
-* Test, diagonize, evaluation before return to normal training
-* Be sensitive
-* Monitor body's condition, and adjust training according
-  * e.g., resting heart rate is a great indication of overall body condition
-* fit in cross/strength training into the training plan
-* **Strong runners** are much less likely to get injuries. So don't be afraid of weight training.
+{: .note }
+Disclaimer - I am not a professional physical therapist. Rather, I am just sharing what I learned over my research and personal experiences.
+
