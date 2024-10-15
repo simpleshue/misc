@@ -3,8 +3,8 @@ title: Injuries
 layout: page
 parent: running
 ---
-
-{: .no_toc }
+ 
+ {:toc}
 
 ## Overall Approach
 
