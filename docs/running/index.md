@@ -1,9 +1,7 @@
 ---
 title: running
-has_toc: true
+parent: Home
 ---
 
-1. TOC
-{:toc}
 
 A place to collect running related docs.
