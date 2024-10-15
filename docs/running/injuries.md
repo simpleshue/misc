@@ -3,6 +3,8 @@ title: Injuries
 layout: page
 parent: running
 back_to_top: true
+back_to_top_text: "Back to top"
+nav_fold: true
 ---
 
 {: .no_toc }
@@ -88,7 +90,8 @@ It might be the hottest topic everyone cares. But, I don't believe too much in t
 
 ### Plantar Fasciitis
 
-[Treatment of Plantar Fasciitis](https://www.aafp.org/pubs/afp/issues/2001/0201/p467.html/1000) is so far the best reference I have found. Basically, it suggests the following treatments
+Plantar Fasciitis
+[Treatment of Plantar Fasciitis](https://www.aafp.org/pubs/afp/issues/2001/0201/p467.html/1000) is so far the best reference I have found.
 
 High level
 
