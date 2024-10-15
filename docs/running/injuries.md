@@ -98,7 +98,7 @@ High level
     * Strengthening  
         * Towel curl
 
-        ![towel curl]({{ site.baseurl }}/assets/images/running/injury_towel_stretching.png)
+        ![towel curl]({{ site.baseurl }}/assets/images/running/injury_towel_stretching.jpg)
 
         * Toe taps
         * Picking up some objects with toes.
