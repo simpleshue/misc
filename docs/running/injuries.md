@@ -19,7 +19,6 @@ Honestly, I have been many injuries myself, and my approach is always to put my 
 * fit in cross/strength training into the training plan
 * **Strong runners** are much less likely to get injuries. So don't be afraid of weight training.
 
-
 ## Top Concern
 
 For any runner, injury prevention should be the top priority!
@@ -82,9 +81,33 @@ Remediations:
 
 It might be the hottest topic everyone cares. But, I don't believe too much in the shoes' mysterious mileage limit. I'd rather pay attention to how it feels on my feet everyday.
 
-
 ## Common Injuries
 
 {: .important }
 > Disclaimer - I am not a professional physical therapist. Rather, I am just sharing what I learned over my research and personal experiences.
 
+### Plantar Fasciitis
+
+[Treatment of Plantar Fasciitis](https://www.aafp.org/pubs/afp/issues/2001/0201/p467.html/1000) is so far the best reference I have found. Basically, it suggests the following treatments
+
+High level
+
+1. Identify training errors - Relative rest, apply ice after training and evaluatoin of shoes.
+    * Shoes - to reduce the load on feet
+        * Change for wider/larger shoes
+        * Better cushioned midsole
+1. Correct biomechnical factors with stretching and strengthening.
+    * Stretching - calves
+    * Strengthening  
+        * Towel curl
+        * Toe taps
+        * Picking up some objects with toes.
+1. If no improvement, consider night splints and orthotics.
+    * Equipment
+        * Arch support and orthotics
+        * Night splints
+1. If still no improvement, check if professionals for more serioues treatment.
+    * Drugs (short term)
+        * anti-inflammatory drugs – results unclear. Ok for short term pain relief.
+        * Ice 10-15min might help
+    * Other serious treatments, e.g., corticosteroid injections, surgery.
