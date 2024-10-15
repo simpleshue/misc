@@ -2,7 +2,10 @@
 title: Injuries
 layout: page
 parent: running
+back_to_top: true
 ---
+
+{: .no_toc }
 
 ## Overall Approach
 
@@ -82,6 +85,6 @@ It might be the hottest topic everyone cares. But, I don't believe too much in t
 
 ## Common Injuries
 
-{: .note }
+{: .important }
 > Disclaimer - I am not a professional physical therapist. Rather, I am just sharing what I learned over my research and personal experiences.
 
