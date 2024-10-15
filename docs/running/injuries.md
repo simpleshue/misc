@@ -83,5 +83,5 @@ It might be the hottest topic everyone cares. But, I don't believe too much in t
 ## Common Injuries
 
 {: .note }
-Disclaimer - I am not a professional physical therapist. Rather, I am just sharing what I learned over my research and personal experiences.
+> Disclaimer - I am not a professional physical therapist. Rather, I am just sharing what I learned over my research and personal experiences.
 
