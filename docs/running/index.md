@@ -1,6 +1,6 @@
 ---
 title: running
-layout: page
+layout: default
 ---
 
 

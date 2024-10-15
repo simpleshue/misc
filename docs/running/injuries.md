@@ -1,6 +1,6 @@
 ---
 title: Injuries
-layout: page
+layout: default
 parent: running
 ---
  
