@@ -1,6 +1,6 @@
 ---
 title: Training Plan Design
-parent: running
+parent: Running
 ---
 
 ## Initial Things to consider

@@ -1,6 +1,6 @@
 ---
 title: Warning Up & Cool Down
-parent: running
+parent: Running
 ---
 
 

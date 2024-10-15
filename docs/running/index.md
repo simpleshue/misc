@@ -1,7 +1,4 @@
 ---
-title: running
+title: Running
 parent: Home
 ---
-
-
-A place to collect running related docs.

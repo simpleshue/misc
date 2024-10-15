@@ -1,6 +1,6 @@
 ---
 title: Injuries
-parent: running
+parent: Running
 ---
 
 1. TOC

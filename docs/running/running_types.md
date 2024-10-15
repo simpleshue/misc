@@ -1,6 +1,6 @@
 ---
 title: Running Types
-parent: running
+parent: Running
 ---
 
 

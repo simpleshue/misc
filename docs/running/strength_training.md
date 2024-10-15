@@ -1,6 +1,6 @@
 ---
 title: Strength Training
-parent: running
+parent: Running
 ---
 
 
