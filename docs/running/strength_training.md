@@ -1,6 +1,5 @@
 ---
 title: Strength Training
-layout: page
 parent: running
 ---
 

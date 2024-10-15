@@ -1,6 +1,5 @@
 ---
 title: running
-layout: default
 has_toc: true
 ---
 

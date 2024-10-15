@@ -1,6 +1,5 @@
 ---
 title: Training Plan Design
-layout: page
 parent: running
 ---
 

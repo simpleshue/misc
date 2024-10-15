@@ -11,6 +11,14 @@ baseurl: /misc
 
 
 search.heading_level: 6
+# Show navigation error report
+nav_error_report: true # default is false/nil.
 
-back_to_top: true
-back_to_top_text: "Back to top"
+permalink: pretty
+
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+    values:
+      layout: "default"

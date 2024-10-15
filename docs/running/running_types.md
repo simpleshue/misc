@@ -1,6 +1,5 @@
 ---
 title: Running Types
-layout: page
 parent: running
 ---
 
