@@ -100,6 +100,7 @@ High level
     * Strengthening  
         * Towel curl
         ![towel curl]({{ site.baseurl }}/assets/images/running/injury_towel_stretching.png)
+
         * Toe taps
         * Picking up some objects with toes.
 1. If no improvement, consider night splints and orthotics.
@@ -114,7 +115,7 @@ High level
 
 ### A Note on Rest
 
-It is a bit contraversial that lying-flat kind of rest is not suggested, since it reduce the muscle and other performance ability quickly, which may not idea for overcoming the symptoms. Rather, controlled exercise is often suggested. 
+It is a bit contraversial that lying-flat kind of rest is not suggested, since it reduce the muscle and other performance ability quickly, which may not idea for overcoming the symptoms. Rather, controlled exercise is often suggested.
 
 Depending on the severity of the condition, the pain may kick in only after certain distance (e.g. 2 mile of running). So try to run in a moderate pace and stop before 2 miles. You can repeat after some rest. This kind of run-and-rest will allow the muscles some time to rest and recovery, while still being stimulated to perform. Note, don't push it too hard, and it may reduce the speed of recovery.
 
