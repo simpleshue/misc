@@ -43,5 +43,5 @@ Mostly static stretch
         ![trunk side bend]({{ site.baseurl }}/assets/images/running/stretch_trunk_side_bend.png)
 
     * On a mat
-    
+
         ![on a math]({{ site.baseurl }}/assets/images/running/stretch_it_band_on_mat.png)
