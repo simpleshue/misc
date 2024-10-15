@@ -85,7 +85,11 @@ It might be the hottest topic everyone cares. But, I don't believe too much in t
 {: .important }
 > Disclaimer - I am not a professional physical therapist. Rather, I am just sharing what I learned over my research and personal experiences.
 
-### Plantar Fasciitis
+### Plantar Fasciitis (PF)
+
+PF is a common injury typically in a form of pain in the heel, or bottom of the heel. Often it is the worst in the morning with the first few steps. It is related to overuse of the plantar fascia. That is, **feet* are used too much, so that the fascia is used to compensate in place of muscles.
+
+As for treatments, short-term is often to reduce pain and let it heal, while maintain the muscle groups that should have taken the load instead of the fascia. The long-term solution is to progress training slowly while keep the muscle groups *strong*.
 
 [Treatment of Plantar Fasciitis](https://www.aafp.org/pubs/afp/issues/2001/0201/p467.html/1000) is so far the best reference I have found.
 
@@ -104,6 +108,10 @@ High level
 
         * Toe taps
         * Picking up some objects with toes.
+        * (Preventative) [More calves exercise](https://simpleshue.github.io/misc/docs/running/strength_training/#calves).
+1. Running forms
+    * Land softly reduces the stress.
+    * Avoid excessive landing on toes or balls.
 1. If no improvement, consider night splints and orthotics.
     * Equipment
         * Arch support and orthotics
@@ -114,7 +122,21 @@ High level
         * Ice 10-15min might help
     * Other serious treatments, e.g., corticosteroid injections, surgery.
 
-### A Note on Rest
+## Plantar Fasciitis (ITBS)
+
+Symptom - Often pain at hip or outside of the knee.
+
+Causes - irritated iliotibial band (ITB). Often the tightened ITB will cut into the knee, which causes the pain there.
+
+Treatments are similar to PF
+
+1. Rest to reduce the on-going pain and inflammation.
+1. Apply ice or other therapy to speed up recovery.
+1. Stretch
+1. Strengthen muscle groups in glute and thigh (e.g., quad, hamstring).
+1. Improve balance
+
+## A Note on Rest
 
 It is a bit contraversial that lying-flat kind of rest is not suggested, since it reduce the muscle and other performance ability quickly, which may not idea for overcoming the symptoms. Rather, controlled exercise is often suggested.
 
