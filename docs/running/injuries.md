@@ -4,6 +4,9 @@ layout: default
 parent: running
 ---
 
+1. TOC
+{:toc}
+
 ## Overall Approach
 
 Honestly, I have been many injuries myself, and my approach is always to put my body's message before everything else.
