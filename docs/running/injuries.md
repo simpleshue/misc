@@ -2,9 +2,6 @@
 title: Injuries
 layout: page
 parent: running
-back_to_top: true
-back_to_top_text: "Back to top"
-nav_fold: true
 ---
 
 {: .no_toc }
@@ -90,7 +87,6 @@ It might be the hottest topic everyone cares. But, I don't believe too much in t
 
 ### Plantar Fasciitis
 
-Plantar Fasciitis
 [Treatment of Plantar Fasciitis](https://www.aafp.org/pubs/afp/issues/2001/0201/p467.html/1000) is so far the best reference I have found.
 
 High level
@@ -103,6 +99,7 @@ High level
     * Stretching - calves
     * Strengthening  
         * Towel curl
+        ![towel curl]({{ site.baseurl }}/assets/images/running/injury_towel_stretching.png)
         * Toe taps
         * Picking up some objects with toes.
 1. If no improvement, consider night splints and orthotics.
@@ -114,3 +111,11 @@ High level
         * anti-inflammatory drugs – results unclear. Ok for short term pain relief.
         * Ice 10-15min might help
     * Other serious treatments, e.g., corticosteroid injections, surgery.
+
+### A Note on Rest
+
+It is a bit contraversial that lying-flat kind of rest is not suggested, since it reduce the muscle and other performance ability quickly, which may not idea for overcoming the symptoms. Rather, controlled exercise is often suggested. 
+
+Depending on the severity of the condition, the pain may kick in only after certain distance (e.g. 2 mile of running). So try to run in a moderate pace and stop before 2 miles. You can repeat after some rest. This kind of run-and-rest will allow the muscles some time to rest and recovery, while still being stimulated to perform. Note, don't push it too hard, and it may reduce the speed of recovery.
+
+Another suggestion is to consider other (hopefully related) sports, that can maintain physical conditions while reduce the load on the particular area (foot in this case). So things like cycling and rolling are good options. Actually, many runner may find symptom reduced by simply running on threadmills or rubber running tracks, where the extra cusion from the ground reduces shocks to the feet.
