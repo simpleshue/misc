@@ -3,8 +3,6 @@ title: Injuries
 layout: default
 parent: running
 ---
- 
- {:toc}
 
 ## Overall Approach
 
@@ -99,6 +97,7 @@ High level
     * Stretching - calves
     * Strengthening  
         * Towel curl
+
         ![towel curl]({{ site.baseurl }}/assets/images/running/injury_towel_stretching.png)
 
         * Toe taps
