@@ -3,6 +3,8 @@ title: Strength Training
 parent: Running
 ---
 
+1. TOC
+{:toc}
 
 ## By Area
 
