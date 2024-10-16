@@ -3,6 +3,9 @@ title: Training Plan Design
 parent: Running
 ---
 
+1. TOC
+{:toc}
+
 ## Initial Things to consider
 
 1. Commitment
