@@ -29,7 +29,7 @@ Just be aware, if you stopped training for a certain period, you may need to re-
 
 ### Overaload
 
-Overload is the mechnism that pushes your body out of the comfort zone, so that it understands that it needs to be more powerful or more efficient in order to handle such stress. It is how our body improve our performance.
+Overload is the mechanism that pushes your body out of the comfort zone, so that it understands that it needs to be more powerful or more efficient in order to handle such stress. It is how our body improve our performance.
 
 If not enough stimulation, then performance improvement can be slow, if any. This is because the body's current fitness level can perfect handle the training, so there is no need for human body to change.
 
