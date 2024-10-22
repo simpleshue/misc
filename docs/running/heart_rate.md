@@ -1,5 +1,5 @@
 ---
-title: All About Heart Rate
+title: Heart Rate
 parent: Running
 ---
 
