@@ -93,7 +93,7 @@ Trail running is also a very good way to keep your foot swift.
 
 ## Sample Training For Runners
 
-1. General [warmps](warmup_cooldown.html) first.
+1. General [warmps](../warmup_cooldown) first.
 1. (Start from large muscle groups) Squat/lounge
 1. Calf/Toe raise
 1. Plank - flat/side

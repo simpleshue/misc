@@ -53,7 +53,7 @@ We want to fully harvest such over-compensation through recovery. Many people on
 There are many indicators you can use to guide the recovery.
 
 * general tiredness
-* wake-up [resting heart rate](heart_rate/#resting-heart-rate)
+* wake-up [resting heart rate](../heart_rate/#resting-heart-rate)
 * HRV - it is a new popular indicator. However, you should only compare it with your own recent history, since the metric can be contraversial when comparing with others, with different calculators, or even with distant history.
 * muscle soreness
 * heart rate during warmup
