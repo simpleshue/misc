@@ -36,6 +36,9 @@ The highest heart rate during the test can be used as the max heart rate.
 
 ### Resting heart rate
 
+{: .note }
+Resting heart rate is a much less known term, but I found it very important for runners.
+
 Resting heart rate is an indicator for one's general health. While being in the general range, relatively lower heart rate is considered to be a better physical condition (e.g., see the heart rate reserve below).
 
 Resting heart rate can be measured easily. The easiest way is to measure it right after wake-up, while you are still laying flat.
@@ -52,12 +55,20 @@ Heart rate reverse describes the room one can push during exercise. So, don't be
 HR reserve = HR max − HR rest
 ```
 
-### HRV
+### Heart Rate Variability(HRV)
 
-HRV is a recent popular statistics, *supported* by modern sport watches.
+HRV is a recent popular statistics, *supported* by modern sport watches. It is the *fluctuation* in the time intervals between adjacent heartbeats.
 
-{: .new }
-TODO - add more.
+HRV is not ONE metric. It can be defined/measured by different durations (e.g., 24 hours, 5 minutes, or even shorter), or different frequency. All these can mean very different things when people are talking about "HRV".
+
+HRV is correlated with stress, general health (e.g., inflammation), which is similar to resting heart rate. However, HRV is much harder to measure.
+
+But, there is a catch. HRV measurement is very specific to the hardware and vendor.
+
+* Different HR sensor can have different accuracy in terms of the measuring frequency. All sensors use some sort of approximations (e.g., comparing HRV from Apple Watch and Garmin may not make any sense).
+* Some vendor often collect HRV from its own users and form a comparison of one's HRV to all others. So the HRV number is a relative comparison with others. Such commparison can also shift as the user base change overtime.
+
+Never the less, HRV is still a good measurement if you know what you are looking at. To me, it is probably only useful to compare one's own HRV history over a relatively short time horizon.
 
 ## Zones
 
