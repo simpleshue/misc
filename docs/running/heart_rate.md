@@ -78,6 +78,22 @@ Never the less, HRV is still a good measurement if you know what you are looking
 {: .new }
 TODO - add more.
 
+| Zone     |      % of Max HR      |  Notes |
+|----------|:---------------------:|------:|
+| 5 - Anaerobic |  90-100% | Can only sustain for < 1 minute. Faster than 5k. |
+| 4 - Lactate threshold |   80-90%   |   Can sustain for < 1 hour. 10k/Intervals/Fartleks. |
+| 3 - Tempo | 70-80% |  Challenging to hold a conversation. Tempo/Half marathon/Full marathon.  |
+| 2 - Aerobic | 60-70% |    Conversational pace. Easy run pace. |
+| 1 - Easy | 50-60% |    Very easy |
+
+There is a lot of popularity nowadays on training in Zone 2. Addmittedly, it is a safer training zone, which does not put a lot of preassure on your body. It is also proven to bring a lot of benefit to VO2Max, lowering rest HR, incrase mitochondria.
+
+However, we should also not underestimate the need for other zones. I would argue that proper training in other higher zones is also very important when one is pursuing better performance. You will get what you train for, especially during races. Different muscle groups will be recruited at different paces, so definite mix in a good amount of other zones if you goal is better race performance.
+
+### New runners
+
+For new runners, often it is  hard to keep HR low enough in the desired zone while maintaining some meaningful pace. You probably need to relax the heart rate restriction, and allow your body to adapt to running over (see [Progressive Overloading](../training_plan_design/#progressive-overloading) and [Training Cycles](../training_plan_design/#cycles) about adaptation).
+
 ## Patterns
 
 ### Things That Increases Resting HR
@@ -98,5 +114,17 @@ TODO - add more.
 
 ## Heart Rate vs Lactate Level
 
-{: .new }
-TODO - add more.
+Lactate threshold training is a hot topic among running community, where blood lactate level is used as an indicator.
+
+Lactate is a byproduct of anaerobic activity, while it also serves as a fuel when enough oxygen is available. In the meantime, it can reduce muscle functionalities by lower the blood's PH level. In the extreme case, it reduce the body's ability to move CO2 from muscle into blood, which significantly impacts performance. This is also one reason that one should have proper warmup to avoid early cumulation of lactate.
+
+Many people plot a pace:lactate-level plot and try to find the turning point in the plot, and determine the pace zone where one can train to efficiently improve one tolerance to lactate.
+
+So far so good, except it is much harder to get an accurate rating. One can invest to buy some device to sample the blood lactate level a few time in a workout, but it is far less frequent than heart rate.
+
+Personally, I would rather choose [Progressive Interval Test](../testing/#progressive-interval-test), which is much easier to carry out and eary to observe how effectively you are moving the curve (i.e., improving your running efficiency).
+
+And to find your one's Lactate Threshold speed, you could get an estimate using the [30-min Test](../testing/#30-min-test).
+
+{. note}
+When I draw speed:HR plot, I got a pretty straight line, which makes it impossible to find the “inflection” point like when using lactate level.
