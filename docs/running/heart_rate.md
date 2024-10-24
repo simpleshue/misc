@@ -3,6 +3,9 @@ title: Heart Rate
 parent: Running
 ---
 
+1. TOC
+{:toc}
+
 Heart rate is probably the most accessible statistics for most runners.
 
 ## Max and Resting Heart Rate
@@ -51,7 +54,7 @@ Personally, I would reduce or even avoid hard workout when the morning resting h
 
 Heart rate reverse describes the room one can push during exercise. So, don't be sad when one find a high Max Heart Rate. It means you have higher capacity!
 
-```
+```text
 HR reserve = HR max − HR rest
 ```
 
