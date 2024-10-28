@@ -13,7 +13,7 @@ World best marathoners can lose ~9.8% body weight in a race
 
 For general atheletes, [^1] documented about ~0.5-3L/h water loss, which is a lot! I would expect durance runners to be on the high end of the chart.
 
- ![water loss]({{ site.baseurl }}/assets/images/running/water_loss_hist.jpeg)
+ ![water loss]({{ site.baseurl }}/assets/images/running/water_loss_hist.png)
 
 In ACSM revised it’s guideline in 2007[^2], it suggests to keep water loss within 2% of body weight. For a 70kg person, that's just 1.4L of water, which probably won't last 1 hour in a race!
 
