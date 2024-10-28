@@ -45,7 +45,7 @@ But in general (not accounting for extreme weather conditions):
 1. Try to drink to replace as much loss as possible, without causing much discomfort.
 1. Pay attention to the electrolyte balance.
 
-{. note}
+{: .note }
 Human sweat contains 0.9g/L sodium, 0.2g/L potassium, and many other electrolytes.
 
 ### Symptoms of Dehydration
@@ -68,7 +68,7 @@ Odd enough, it does happen! It share many similar symptoms with dehydration, or 
 * Cramps
 * Feeling weak
 
-{. note}
+{: .note }
 Mostly electrolyte drinks or salt tabs are not enough to counterbalance the loss.
 
 ### Hydration Strategy For Long Races (e.g. Marathon)
@@ -80,7 +80,8 @@ Make sure you are properly hydrated with some electrolytes the day before the ra
 #### Race day, before race
 
 2-3 hours before the race: drink about 500ml of body weight in the morning.
-{. note}
+
+{: .note }
 Avoid drinking too much, which increases the chance of visiting the restroom during the race, and the chance of getting a blasted stomach.
 Also, avoid drinking pure water for the risk of hyponatraemia later.
 
@@ -96,7 +97,7 @@ So during the first 30 mins of the race, you don't really need to drink. It is g
 
 Try sport drinks at least every other water stop for better electrolyte balance. Many people found it might make them more thirsty if take sports drinks every time.
 
-{. note}
+{: .note }
 
 * If you are a heavy sweater, consider bringing your one hydration pack.
 * Avoid drink only water. Consider electrolyte drink whenever possible.
@@ -125,7 +126,7 @@ Sweat Rate (per body weight per hour) = (W1 + W3 - W2) / Run Duration In Hours.
 
 To prepare for a race, it is best to perform the test in similar conditions (e.g., pace, weather, distance) to have a more accurate estimate.
 
-{. note}
+{: .note }
 For relatively shorter run, the sweat rate test might not be accurate because of the water from breaking down of glycogen (see above [here](#weight-loss-does-not-equal-to-water-loss)).
 
 ## References
