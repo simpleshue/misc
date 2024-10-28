@@ -71,7 +71,7 @@ Odd enough, it does happen! It share many similar symptoms with dehydration, or 
 * Feeling weak
 
 {: .note }
-Mostly electrolyte drinks or salt tabs are not enough to counterbalance the loss.
+Check contained electrolyte contents in sport drinks, salt tabs or energy gels.
 
 ### Hydration Strategy For Long Races (e.g. Marathon)
 
@@ -91,30 +91,26 @@ If possible, drink a small amount (100-200ml) 15 mins before the race.
 
 #### During race
 
-The drinking strategy varies by person, so it is the best to be based on [sweat test](#sweat-race-test).
+The drinking strategy varies by person, so always plan your strategy be based on [sweat test](#sweat-race-test).
 
-If without the sweat test, generally one can target at least 500ml to 1L water/sport drink per hour. As discussed earlier, our body may not need 1:1 water replacement during the race, but if the duration is long, we should still target to replace close to 1:1 to avoid damage to our body and performance.
+As discussed earlier, our body may not need 1:1 water replacement during the race. But if the duration is long, we should still target to replace close to 1:1 to avoid damage to our body and performance.
 
-So during the first 30 mins of the race, you don't really need to drink. It is good to have a small sip early on, if it doesn't slow you down.
+During the first 30 mins of the race, you don't really need to drink. It is good to have a small sip early on, if it doesn't slow you down.
 
 Try sport drinks at least every other water stop for better electrolyte balance. Many people found it might make them more thirsty if take sports drinks every time.
 
-{: .note }
+Some tips:
 
-* If you are a heavy sweater, consider bringing your one hydration pack.
-* Avoid drink only water. Consider electrolyte drink whenever possible.
+* If you are a heavy sweater, consider bringing your own hydration pack.
 * Along with hydration, consume some carbohydrates to fuel your body for better performance.
 * When taking gels or food, pay some attention for the ingredients. Additional water may be required in order for digestion, which increased the needs for water.
-
-Another tip, try to grab some water in every water stop (unless it is packed with runners), and take small sips of water. Drinking too much at once may upset your stomach or making it difficult to breath.
+* Try to grab some water in every water stop (unless it is packed with runners), and take small sips of water. Drinking too much at once may upset your stomach or making it difficult to breath.
 
 #### After race
 
 Drink enough to keep urine light yellow.
 
 ### Sweat race test
-
-It is the best way to estimate one's sweat rate.
 
 * Take one's pre-run weight (with minimum clothes on) - W1.
 * After the run, shower and dry one's body and measure body weight (again, with minimum clothes on) - W2.
@@ -136,7 +132,4 @@ For relatively shorter run, the sweat rate test might not be accurate because of
 [^1]: [Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability](https://pmc.ncbi.nlm.nih.gov/articles/PMC5371639/)
 [^2]: [American College of Sports Medicine position stand. Exercise and fluid replacement](https://pubmed.ncbi.nlm.nih.gov/17277604/)
 [^3]: [Drinking behaviors of elite male runners during marathon competition](https://pubmed.ncbi.nlm.nih.gov/22450589/)
-[^4]: [Exercise-associated hyponatremia and hydration status in 161-km ultramarathoners](https://pubmed.ncbi.nlm.nih.gov/23135369/)
-[^5]: [Fundamentals of glycogen metabolism for coaches and athletes](https://pmc.ncbi.nlm.nih.gov/articles/PMC6019055/)
 [^6]: [Abstracts for the 4th Annual Congress on Medicine & Science in Ultra-Endurance Sports, May 30, 2017, Denver, Colorado](https://journals.humankinetics.com/view/journals/ijspp/12/s1/article-pS1-1.xml)
-[^7]: [How much dehydration can you tolerate?](https://www.precisionhydration.com/performance-advice/hydration/how-much-dehydration-can-you-tolerate-before-your-performance-suffers/)
