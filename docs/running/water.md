@@ -131,10 +131,10 @@ For relatively shorter run, the sweat rate test might not be accurate because of
 
 ## References
 
-* [^1] [Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability](https://pmc.ncbi.nlm.nih.gov/articles/PMC5371639/)
-* [^2] [American College of Sports Medicine position stand. Exercise and fluid replacement](https://pubmed.ncbi.nlm.nih.gov/17277604/)
-* [^3] [Drinking behaviors of elite male runners during marathon competition](https://pubmed.ncbi.nlm.nih.gov/22450589/)
-* [^4] [Exercise-associated hyponatremia and hydration status in 161-km ultramarathoners](https://pubmed.ncbi.nlm.nih.gov/23135369/)
-* [^5] [Fundamentals of glycogen metabolism for coaches and athletes](https://pmc.ncbi.nlm.nih.gov/articles/PMC6019055/)
-* [^6] [Abstracts for the 4th Annual Congress on Medicine & Science in Ultra-Endurance Sports, May 30, 2017, Denver, Colorado](https://journals.humankinetics.com/view/journals/ijspp/12/s1/article-pS1-1.xml)
-* [^7] [How much dehydration can you tolerate?](https://www.precisionhydration.com/performance-advice/hydration/how-much-dehydration-can-you-tolerate-before-your-performance-suffers/)
+[^1]: [Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability](https://pmc.ncbi.nlm.nih.gov/articles/PMC5371639/)
+[^2]: [American College of Sports Medicine position stand. Exercise and fluid replacement](https://pubmed.ncbi.nlm.nih.gov/17277604/)
+[^3]: [Drinking behaviors of elite male runners during marathon competition](https://pubmed.ncbi.nlm.nih.gov/22450589/)
+[^4]: [Exercise-associated hyponatremia and hydration status in 161-km ultramarathoners](https://pubmed.ncbi.nlm.nih.gov/23135369/)
+[^5]: [Fundamentals of glycogen metabolism for coaches and athletes](https://pmc.ncbi.nlm.nih.gov/articles/PMC6019055/)
+[^6]: [Abstracts for the 4th Annual Congress on Medicine & Science in Ultra-Endurance Sports, May 30, 2017, Denver, Colorado](https://journals.humankinetics.com/view/journals/ijspp/12/s1/article-pS1-1.xml)
+[^7]: [How much dehydration can you tolerate?](https://www.precisionhydration.com/performance-advice/hydration/how-much-dehydration-can-you-tolerate-before-your-performance-suffers/)
