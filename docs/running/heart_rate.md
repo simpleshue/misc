@@ -86,7 +86,11 @@ TODO - add more.
 | 2 - Aerobic | 60-70% |    Conversational pace. Easy run pace. |
 | 1 - Easy | 50-60% |    Very easy |
 
+### "Zone 2" training
+
 There is a lot of popularity nowadays on training in Zone 2. Addmittedly, it is a safer training zone, which does not put a lot of preassure on your body. It is also proven to bring a lot of benefit to VO2Max, lowering rest HR, incrase mitochondria.
+
+However, all above benefits are also achievable through exercising in other zones, though with different efficiency and other benefits (e.g. speed). The main benefit in my opinion is to prevent/reduce injury. With lowe training stress, the body is more likely to recovery quickly, which is the key to continuous and compounded improvement.
 
 However, we should also not underestimate the need for other zones. I would argue that proper training in other higher zones is also very important when one is pursuing better performance. You will get what you train for, especially during races. Different muscle groups will be recruited at different paces, so definite mix in a good amount of other zones if you goal is better race performance.
 

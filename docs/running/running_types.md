@@ -15,6 +15,10 @@ There most common ones are:
     * For long distance runners, it is typicaly >= 90 mins. I prefer measure by duration rather than distance.
     * Typically done at a conversational pace.
     * It simulates body for better efficiency andd adaptation of long distances.
+1. Hill run
+    * Hill run put less stress on joints, while can still demand a lot of power output.
+    * It is ideal before adding Tempo run into one's training.
+    * Sometime, it can be mixed with Tempo or Intervals (there is no clear division).
 1. Tempo
     * It is faster than the conversational pace. Often, it is at the speed you can sustain with some discomfort.
     * Maintain such a pace for a long duration, e.g., 20 mins to one hour.

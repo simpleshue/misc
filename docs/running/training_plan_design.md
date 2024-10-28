@@ -71,7 +71,7 @@ Training is better done in cycles with **Progressive overloading** and **recover
 * Macro cycles - 16-26 weeks. Full cycle
   * Typically consists of multiple meso cycles. E.g., base --> tempo --> interval.
 * Meso cycles - 2-6 weeks
-  * Based on dody adaptation cycles - one focus at a time to avoid over-training
+  * Based on dody adaptation cycles - **one focus at a time to avoid over-training**
   * Overload → then may need recovery in between - cut-back 25-50% volume (need deload by the end of the meso cycle)
 * Micro cycles - 1 week
   * 2-4 “effort” workouts per week - to avoid over training. Allow sufficient recovery.
