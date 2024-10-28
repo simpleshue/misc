@@ -2,6 +2,8 @@
 title: Water
 parent: Running
 ---
+1. TOC
+{:toc}
 
 ## Water and Electrolyte
 
