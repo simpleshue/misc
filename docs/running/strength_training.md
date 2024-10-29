@@ -8,51 +8,64 @@ parent: Running
 
 ## By Area
 
+{: .note }
+I labeled each exercise of the format `numberAlphabet`. The number names one area in our body to workout, while alphabet indicates different ways. For a complete workout, we can to go over all numbers, while picking one alphabet group. For example, we can pick 1A, 2A, ... for one exercise, and the next time (maybe a few days later) we can pick 1B, 2B, ....
+
 ### Calves
 
-1. Calf walk - can serve as a warmup.
-1. Heel walk - can serve as a warmup.
-1. [Calf raise](https://www.youtube.com/watch?v=c5Kv6-fnTj8)
+1. (1A) Calf walk - can serve as a warmup.
+1. (1A) Heel walk - can serve as a warmup.
+1. (2A) [Calf raise](https://www.youtube.com/watch?v=c5Kv6-fnTj8)
     * Single leg standing raise - consider dip the heal down slowly, and up quickly.
     * 15x3
     * Optional - with modrate weight
     * If having heel issue, avoid dipping below the toe level.
-1. [Toe raise](https://www.youtube.com/watch?v=VzIcGAgBiaM)
+1. (2A) [Toe raise](https://www.youtube.com/watch?v=VzIcGAgBiaM)
     * Lean back on the wall, whil keep body straight.
     * 10-15x3
-1. Rope jump
+1. (2B) Rope jump
+    * Also focus on explosiveness and swiftness.
 
 ### Quad, Hamstring & Glute
 
-1. Squat
+We start will complex exercises, while multiple muscle groups are involved, and then focus on those which are highly demanded in running.
+
+1. (1A) Squat
     * The most basic one. Engages multiple muscle group. It serves the base for all other leg exercises.
     * Down slowly, and up quickly
     * Optional - with  power up
     * Optional - with weight
-1. Split leg lounge (Bulgaria)
+1. (1B) Split leg lounge (Bulgaria)
     * Upper body lean forwawrd with a fix angle to focus on glute. If keep upper body straight, it will focus more on quads
     * 10-15x3
     * Optional - with weights
-1. Single leg deadlift
+1. (1C) [Lounge circuit](https://youtu.be/SnNlrFcXjVU?t=227)
+    * 5-8 each side
+1. (2A) Single leg deadlift
     * 10-15x3
     * Free-holding and extend upper body and arms forward - improve balance.
-1. [Lounge circuit](https://youtu.be/SnNlrFcXjVU?t=227)
-    * 5-8 each side
-1. Glute bridge
-    * focus on hamstring
+    * Focus on glute stability and strength.
+1. (2B) Glute bridge
+    * focus on hamstring and glute
     * the farther away the lower foot, the more challenging it is.
-1. Jumping on box
-1. Nordic hamstring curl
+1. (2C) Nordic hamstring curl
     * great for hamstring
-1. Hip flexion with bands
+1. (3A) Hip flexion with bands
     * Similar to calf stretch when pushing towards a wall, use a rubber band while lifting the leg high.
     * Focus on Iliopsoas (髂腰肌) - for lifting thighs.
+1. (4A) Side kick (optional - with band)
+1. (4B) Standing back/side kick with band
+1. (5A) Jumping on box
 
 ### Core
 
-1. Plank - flat / side
-1. [Side plank abductor hold](https://youtu.be/SnNlrFcXjVU?t=488)
+1. (1A) Plank - flat / side
+1. (1B) [Side plank abductor hold](https://youtu.be/SnNlrFcXjVU?t=488)
     * Also improves inner muscle of the tighs
+1. (1C) Hand-to-Shoulder Plank
+    * Hands together and feet shoulder-width apart.
+    * Touch your left hand to your right shoulder, then vice versa.
+    * Keep your pelvis level. If you find you are rotating your pelvis, widen your legs or drop to your knees.
 
 ## Theory
 
@@ -90,14 +103,6 @@ The video recommended various jumps. To add more, I believe jumping rope should 
 Various other foot drills also helps to improve self-awareness of leg movement.
 
 Trail running is also a very good way to keep your foot swift.
-
-## Sample Training For Runners
-
-1. General [warmps](../warmup_cooldown) first.
-1. (Start from large muscle groups) Squat/lounge
-1. Calf/Toe raise
-1. Plank - flat/side
-1. Glute bridge
 
 ---
 
