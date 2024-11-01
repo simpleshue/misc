@@ -9,7 +9,7 @@ parent: Running
 ## By Area
 
 {: .note }
-I labeled each exercise of the format `numberAlphabet`. The number names one area in our body to workout, while alphabet indicates different ways. For a complete workout, we can to go over all numbers, while picking one alphabet group. For example, we can pick 1A, 2A, ... for one exercise, and the next time (maybe a few days later) we can pick 1B, 2B, ....
+I labeled each exercise of the format `numberAlphabet`.  number indicates one body area, while alphabet indicates alternative ways to exercise. For a complete workout, we can to go over all numbers, while picking one alphabet group at a time. For example, we can pick 1A, 2A, ... for one exercise, and the next time (maybe a few days later) we can pick 1B, 2B, ....
 
 ### Calves
 
@@ -24,11 +24,11 @@ I labeled each exercise of the format `numberAlphabet`. The number names one are
     * Lean back on the wall, whil keep body straight.
     * 10-15x3
 1. (2B) Rope jump
-    * Also focus on explosiveness and swiftness.
+    * Focus on explosiveness and swiftness.
 
 ### Quad, Hamstring & Glute
 
-We start will complex exercises, while multiple muscle groups are involved, and then focus on those which are highly demanded in running.
+We start with complex exercises, where multiple muscle groups are involved. Then focus on those which are highly demanded in running.
 
 1. (1A) Squat
     * The most basic one. Engages multiple muscle group. It serves the base for all other leg exercises.
@@ -46,14 +46,16 @@ We start will complex exercises, while multiple muscle groups are involved, and 
     * Free-holding and extend upper body and arms forward - improve balance.
     * Focus on glute stability and strength.
 1. (2B) Glute bridge
-    * focus on hamstring and glute
-    * the farther away the lower foot, the more challenging it is.
+    * For hamstring and glute
+    * The farther away the lower foot, the more challenging it is.
 1. (2C) Nordic hamstring curl
     * great for hamstring
 1. (3A) Hip flexion with bands
     * Similar to calf stretch when pushing towards a wall, use a rubber band while lifting the leg high.
     * Focus on Iliopsoas (髂腰肌) - for lifting thighs.
+    * Also good for forms.
 1. (4A) Side kick (optional - with band)
+    * For glute
 1. (4B) Standing back/side kick with band
 1. (5A) Jumping on box
 
