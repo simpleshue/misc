@@ -7,6 +7,11 @@ parent: Running
 
 ```No break, no fix```
 
+{: .hightlight-title }
+> First of all:
+>
+> No break, no fix!
+
 Changing running forms is always risky. Imagine your body as a system running for many years. Every muscle, tendon and all everything has been adjusted over the years, changing how they work together always imposes  risk.
 
 If you want to try changing the forms to archieve better performance, do it with caution and only make minor/mild change very slowly. For performance purpose, spending extra time increasing the workout may also bring similar benefit without the risk of injuery.
