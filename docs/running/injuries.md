@@ -10,13 +10,21 @@ parent: Running
 
 Honestly, I have been many injuries myself, and my approach is always to put my body's message before everything else.
 
-* Stop at any median level discomfort
-* Test, diagonize, evaluation before return to normal training
-* Be sensitive
-* Monitor body's condition, and adjust training according
-  * e.g., resting heart rate is a great indication of overall body condition
-* fit in cross/strength training into the training plan
-* **Strong runners** are much less likely to get injuries. So don't be afraid of weight training.
+1. Be sensitive and cautious
+    * Stop at any median level discomfort
+    * Test, diagonize, evaluation before return to normal training
+    * Be sensitive
+1. Short-term
+    * Fix the symptom/pain through rest (or/and anti-inflammation drugs with professional instruction).
+    * Inspect and fix external factors, such as shoes.
+    * If it is related to over-training, adjust training plan.
+    * Use equipments to reduce the pain and help body to heal.
+1. Long-term
+    * Identify the root cause (e.g., bad forms, muscle imbalance/inflexibility/weakness).
+    * Fit in cross training with focus on mitigating the root cause (e.g., strength/stability training, stretching).
+        * **Strong runners** are much less likely to get injuries. So don't be afraid of weight training.
+    * Consider more warm-up/cool-down, and/or active recovery (e.g., massage/icing).
+    * Consult professional (e.g. physical therapist)
 
 ## Top Concern
 
