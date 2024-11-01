@@ -5,9 +5,7 @@ parent: Running
 
 ## High level
 
-```No break, no fix```
-
-{: .hightlight-title }
+{: .important-title }
 > First of all:
 >
 > No break, no fix!
