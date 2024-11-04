@@ -16,8 +16,8 @@ Before using it to guide your workout, first, we need to understand the basics, 
 
 There are many formulas to predict one's max heart rate. To name a few
 
-* Haskell & Fox(1971): `200 - age`
-* Tanaka, Monahan, & Seals (2001): `208 − (0.7 × age)`
+* Haskell & Fox(1971): $200 - age$
+* Tanaka, Monahan, & Seals (2001): $208 − (0.7 × age)$
 
 These are all general predication based on a large number of samples. However, everyone is special. You might be surpised to see your HR to spike to 200 during an interval training. Some recent research suggests that human's max heart rate is close to 300!
 
