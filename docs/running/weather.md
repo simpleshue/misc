@@ -5,6 +5,35 @@ parent: Running
 
 ## Run in the Heat
 
+When talking about running in heat, the first thing is obviously hydration, which we discuss in details [here](../water).
+
+The less common topic is that you may want to adjust your target pace/effort according to the heat too.
+
+### Measurement
+
+When measuring the impact of heat, temperature is obviously the first factor.
+
+However, humidity is can have a far more impact sometime (e.g., when humidity is very high). It reduces the cooling effect of evaporation, which is how our body cool down via sweating.
+
+One proxy we can use to combine the two factors above is
+
+```math
+Heat Index = Dew Point + Temperature (in fahrenheit)
+```
+
+Dew Point is often accessible in weather report, which is
+
+```math
+Dew Point = Temperature (in Celsius) - (100-Relative Humidity In Percentage) / 5
+```
+
+Below is the adjustment chart from [Maximum Performance Running](https://maximumperformancerunning.blogspot.com/2013/07/temperature-dew-point.html)
+  
+  ![adjustment]({{ site.baseurl }}/assets/images/running/running_adj_heat.png)
+
+
+
+
 ## Run in the Cold
 
 ### Protection
