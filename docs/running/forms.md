@@ -34,7 +34,7 @@ Some random tips:
 
 ## Forefoot vs Heal Strike
 
-On a high level, comparing to the two types, the shock and stress move between ankles and knees/hips. It didn't just go away (unless the overall vertical movement pattern changes).
+On a high level, comparing to the two types, the shock and stress move between ankles and knees/hips. The stress just goes away (unless the overall vertical movement pattern changes).
 
 Forefoot strike relies more on the ankle to absorb the shock.
 

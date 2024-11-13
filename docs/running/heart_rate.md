@@ -84,7 +84,7 @@ Never the less, HRV is still a good measurement if you know what you are looking
 | 1 - Easy | 50-60% |    Very easy |
 
 By far, the best chart I have found is from `Fluid Athletics`:
-  ![zone_chart]({{ site.baseurl }}/assets/images/running/zone_chart.png)
+  ![zone_chart]({{ site.baseurl }}/assets/images/running/zone_chart.jpeg)
 
 ### "Zone 2" training
 
