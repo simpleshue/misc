@@ -46,7 +46,7 @@ Just be aware, *overload* is a double-edged sword. It needs to be controlled to 
 
 ### What to overload?
 
-It will definite be case by case, depending on one's goal and bottleneck. 
+It will definite be case by case, depending on one's goal and bottleneck.
 
 Here are the general thoughts:
 
@@ -57,7 +57,6 @@ Here are the general thoughts:
 1. Start lifting weights (or, lift heavier weights)
 1. More overall cross-training volume
 1. Longer workouts
-
 
 ## Recovery
 
@@ -108,11 +107,10 @@ Overall, training is teaching the brain to understand the limits of the body, so
 
 A good habbit to reinforce the mental training is to keep running logs.
 
-## Top Priority - injury free
-
-Overall, injury prevention should be on top of the list.
-
 ## Priority list
+
+{. important}
+Overall, injury prevention should be on top of the list.
 
 1. Injuery free / General health
     * Rest

@@ -32,7 +32,7 @@ Some random tips:
 * Breath in slowly through your nose so that your stomach moves out against your lower hand while keeping the hand on your chest as still as possible;
 * try to tighten your stomach muscles, so that your stomach moves back in as you exhale through pursed lips
 
-## Forefoot vs Heal Strike
+## Forefoot vs Heel Strike
 
 On a high level, comparing to the two types, the shock and stress move between ankles and knees/hips. The stress just goes away (unless the overall vertical movement pattern changes).
 
