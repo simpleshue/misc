@@ -31,18 +31,33 @@ Just be aware, if you stopped training for a certain period, you may need to re-
 
 Overload is the mechanism that pushes your body out of the comfort zone, so that it understands that it needs to be more powerful or more efficient in order to handle such stress. It is how our body improve our performance.
 
-If not enough stimulation, then performance improvement can be slow, if any. This is because the body's current fitness level can perfect handle the training, so there is no need for human body to change.
+If not enough stimulation, then performance improvement can be slow, if any. This is because the body's current fitness level can perfect handle the training, so there is no need for human body to change. As a result, it needs to be "over" the current comfort level.
 
 We can overload by:
 
 * applying more load. E.g., longer distance, faster pace.
-* changing schedules. E.g., vary speed or distance for interval/tempo.
+* changing schedules. E.g., vary speed or distance for interval/tempo, more frequnt runs.
 * changing course. E.g., replace some speed run with hill runs, or trail runs.
 * simulate different muscle groups for strength training.
 
 All above are examples to bring the training out of the regular comfort zone.
 
 Just be aware, *overload* is a double-edged sword. It needs to be controlled to be *progressive*, otherwise, it is an invite for over-training.
+
+### What to overload?
+
+It will definite be case by case, depending on one's goal and bottleneck. 
+
+Here are the general thoughts:
+
+1. Volume of easy running per week
+1. More frequent workouts
+1. Longer long runs
+1. More frequent long runs
+1. Start lifting weights (or, lift heavier weights)
+1. More overall cross-training volume
+1. Longer workouts
+
 
 ## Recovery
 
@@ -59,6 +74,9 @@ There are many indicators you can use to guide the recovery.
 * heart rate during warmup
 
 Overally, I would put one's self assessed recovery more than the training plan. Adjustment should be made if your body tells you to rest!
+
+{: .note }
+[Research](https://www.mcmillanrunning.com/the-most-important-training-lesson/) found that the musculoskeletal system (the muscles, tendons, ligaments, bones, and fascia) adapts much more slowly (25–50% slower than cardiovascular, neurological, and mental systems).
 
 ### Active recovery
 

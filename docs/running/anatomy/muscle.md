@@ -1,6 +1,6 @@
 ---
 title: Muscle Fiber
-parent: Running
+parent: Anatomy
 ---
 
 * This nice table is from [Institude of Human Anatomy](https://youtu.be/Y2HMgLEijS8?si=r25oEymL_qVPT2H6)

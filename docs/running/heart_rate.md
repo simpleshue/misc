@@ -75,9 +75,6 @@ Never the less, HRV is still a good measurement if you know what you are looking
 
 ## Zones
 
-{: .new }
-TODO - add more.
-
 | Zone     |      % of Max HR      |  Notes |
 |----------|:---------------------:|------:|
 | 5 - Anaerobic |  90-100% | Can only sustain for < 1 minute. Faster than 5k. |
@@ -85,6 +82,9 @@ TODO - add more.
 | 3 - Tempo | 70-80% |  Challenging to hold a conversation. Tempo/Half marathon/Full marathon.  |
 | 2 - Aerobic | 60-70% |    Conversational pace. Easy run pace. |
 | 1 - Easy | 50-60% |    Very easy |
+
+By far, the best chart I have found is from `Fluid Athletics`:
+  ![zone_chart]({{ site.baseurl }}/assets/images/running/zone_chart.png)
 
 ### "Zone 2" training
 
