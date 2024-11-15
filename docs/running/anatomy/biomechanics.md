@@ -37,7 +37,7 @@ The ground reaction force at the centre of pressure  have been shown to increase
 The left leg starts to propel you forwards. This is achieved by your left ankle, knee and hip all extending (straightening) to push the body up and forwards, using the elastic energy stored during the braking phase above.
 
 
-{. note}
+{: .note}
 The three components (ankel, knee, hip) consists the main system for braking/storing/propulsion, but it varies dramatically how force is distributed (research shows that >50% of the elastic energy comes from the Achilles and tendons). The distribution is critical for efficiency and injury.
 
 
@@ -61,6 +61,9 @@ As a result, a well functioning central core area allows such force distribution
 
 
 ## [Kinetic Chain](https://www.physio-pedia.com/Kinetic_Chain)
+
+{: .note}
+TODO - add more defails.
 
 It is a much more complex topic, where the whole body is considered. 
 
