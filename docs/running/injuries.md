@@ -130,7 +130,7 @@ High level
         * Ice 10-15min might help
     * Other serious treatments, e.g., corticosteroid injections, surgery.
 
-## Plantar Fasciitis (ITBS)
+### Iliotibial Band Syndrome (ITBS)
 
 Symptom - Often pain at hip or outside of the knee.
 
@@ -143,6 +143,19 @@ Treatments are similar to PF
 1. Stretch
 1. Strengthen muscle groups in glute and thigh (e.g., quad, hamstring).
 1. Improve balance
+
+### Achilles Tendon Injuries
+
+Causes - the common cause is over-use. 
+
+#### Treatment
+
+Note, tendon heals very slowly. The way our body heals is to lay down new fibers. However, such newly formed layers can be damaged by excess stretching. 
+
+To avoid it, pay special attention to calf stretching/strengthening exercises. You can replace stretching calves with foam roller, or massage.
+
+Avoid low-heel (or low drop) shoes to reduce load on the tendon. Some amount of cushion can be considered as well.
+
 
 ## A Note on Rest
 
