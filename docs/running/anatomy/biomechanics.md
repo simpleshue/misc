@@ -11,11 +11,11 @@ This cycle starts when one foot makes contact with the ground, and ends when tha
 
 ### Stance phase - the foot is in contact with the ground
 
-1. Initial contact
+#### 1. Initial contact
 
 One foot (say left) is about to touch the ground, while the other foot (right) is off the floor (in swing phase).
 
-2. Braking (absorption)
+#### 2. Braking (absorption)
 
 As soon as your left foot touches the floor, your body is performing a controlled landing (deceleration and braking). Your left knee and ankle flex (the opposite of straighten) and the left foot rolls in (pronates) to absorb impact forces. During this process, the tendons and connective tissue within the muscles store elastic energy for use later in the propulsion phase.
 
@@ -24,7 +24,7 @@ There are two braking here - horizontal and vertical. For better efficiency, we 
 * To reduce horizontal braking, one can reduce the vertical *hopping*. It is hard to do, but you can think of a *smoother* run.
 * To reduce vertical braking, one should avoid over-striding. Also, try to pull the foot backwards to keep the relative speed of the foot to be close to zero to reduce such braking. (consider some [drills](../../warmup_cooldown/#warm-up))
 
-3. Midstance
+#### 3. Midstance
 
 When the left leg is directly under the hips taking maximum load (maximum risk of injury) as the body weight passes over it. The left ankle and knee are at maximum flexion angle.
 
@@ -32,7 +32,7 @@ Pay attention to when the maximum force is used - if it is before the midstance,
 
 The ground reaction force at the centre of pressure  have been shown to increase to 250% of the body weight.
 
-4. Propulsion
+#### 4. Propulsion
 
 The left leg starts to propel you forwards. This is achieved by your left ankle, knee and hip all extending (straightening) to push the body up and forwards, using the elastic energy stored during the braking phase above.
 
