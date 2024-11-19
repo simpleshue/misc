@@ -47,3 +47,23 @@ Heel strike relies more on knees and hips to absort the shock.
 * More stress on knees and hips
 * Less stress on feet/ankle/calf
 * Less sensitive to landing - knees/hips have less neurons, so less self-adaptation during running
+
+## Excess Anterior Knee Translation
+
+Reference: [Running Movement Impairments: Excess Anterior Knee Translation](https://www.doctorsofrunning.com/2018/08/running-movement-impairments-excess.html)
+
+Anterior Knee Translation is how much you bend your knee forward during a stride, in particular, during a [midstance](../anatomy/biomechanics/#running-gait-cycle).
+
+You can observe your anterior knee translation during a static squat, and vary the form slightly to feel the distribution of stress between the knees and hips. Typically, it is suggested to not let the knees to be in front of the toes, though it is often challenged based on the goal of the exercises.
+
+It is often in company with dorsiflexion (the bend of ankle).
+
+### Causes
+
+Common causes are often weakness in one of the three main power generators, calf, quadricp and glute, so that one need an excess translation for compensation.
+
+### Treatment
+
+1. The first treatment is to strengthen the weak point of the three (why not all of them!).
+1. Movement training - practice *push off the ground with glutes*.  It can be done in a stand form (e.g., Bulgarian single leg squat), while avoid keep knees in front of the toes.
+1. Apply the focus to running, from short distance to longer ones.
