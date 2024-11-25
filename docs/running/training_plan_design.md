@@ -124,3 +124,7 @@ Overall, injury prevention should be on top of the list.
 1. Mentality
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vQu7oJ4mgo_vTfl25uydfEplGj54e5PIvKvClfXcm3vFmIC1yrUTmnyLQeeALX02_fUU7WgQe1YgO96/pub?w=960&amp;h=720">
+
+## Resource
+
+* [Time to Run train plans](https://www.codyhoover.com/time-to-run/) - a wide selection of training plans.
