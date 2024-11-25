@@ -15,14 +15,24 @@ A typical routine:
 
     * Toe walk / heel walk
     * Leg swing - back-forth, side.
-    *
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/naW8u72lOzI?si=IL9w4abUNl3623YV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
 1. Drills
 
-    * [A-skip or walk](https://www.youtube.com/watch?v=0fz4tO3IDzU)
-    * [B-skip or walk](https://www.youtube.com/watch?v=JeMBzS2ctK8)
+    * A-skip or walk
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0fz4tO3IDzU?si=cXM8-HPNJJx3A0EG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+    * B-skip or walk
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JeMBzS2ctK8?si=7q6c4iurnUp2NViE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     * C skip (A + side)
-    * [Fast leg drill](https://www.youtube.com/watch?v=YmLMXo3xzPE&list=PLuQydQQRBwJ8Q7IFCljC7pNHr2ucdhJee&index=7)
+    <iframe width="843" height="1498" src="https://www.youtube.com/embed/Zc_utJGTQWU" title="C-Skip Example #runningtips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    * Fast leg drill
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YmLMXo3xzPE?si=VbJlqvLovtED4QSb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     * High knees
+<iframe width="843" height="1498" src="https://www.youtube.com/embed/IdIlyOKozx4" title="How To Do High Knees #runningdrills #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Cool-down
 

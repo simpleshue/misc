@@ -109,36 +109,36 @@ Be patient - include a proper warmup and cooldown. Start with 2 sets of 8-15 rep
 
 Many interval or high intensity exercies (e.g. HIIT) are in the form of Plyometrics.
 
-1. [Skipping](https://simpleshue.github.io/misc/docs/running/warmup_cooldown/#Warm-up)
-2. Jump Squat
+### [Skipping](https://simpleshue.github.io/misc/docs/running/warmup_cooldown/#Warm-up)
+### Jump Squat
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U4s4mEQ5VqU?si=RgQ-xNU89SZZ7Rb-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-3. Jumping lunge (optional - with knee up)
+### Jumping lunge (optional - with knee up)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y7Iug7eC0dk?si=0kt58_29kU5Ye8yN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-4. Side hops
+### Side hops
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pIKBH4hvL6A?si=YwFabI-3nqrLjGd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-5. Single-Leg Lateral Jumps
+### Single-Leg Lateral Jumps
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V8uZ1qdsOQM?si=rsmAyG5VQKy33EaK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-6. Burpee
+### Burpee
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dZgVxmf6jkA?si=hkKfH1ygPi1uE_Jv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-7. Box jump
+### Box jump
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hxldG9FX4j4?si=rEQqEQgc8Ac54TN9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-8. Skier Jumps
+### Skier Jumps
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GKVovgiq0Mw?si=lsEFtonISf6-k5P0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-9. Interval running
+### Interval running
 
 ## Theory
 
