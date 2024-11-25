@@ -6,11 +6,15 @@ parent: Running
 1. TOC
 {:toc}
 
-## Initial Things to consider
+## Things to consider
 
 1. Commitment
 1. Goal (distance, speed)
 1. Current status (training, injury, general health condition)
+
+1. Commitment: How dedicated are you to your running goals?
+1. Goals: What do you want to achieve? Are you aiming for a specific distance, pace, or both?
+1. Current Status: Be honest about your current fitness level. Are you currently training, recovering from an injury, or just starting out?
 
 ## Progressive Overloading
 
@@ -22,55 +26,46 @@ Here we separate it into two: *Progressive* and *Overload*.
 
 Just be aware, if you stopped training for a certain period, you may need to re-consider where to pick it up. Some general concensus below:
 
-* Miss 1-3 days - resume training as before.
-* Miss 4-7 days, need 1-4 days of easy run before trying faster/longer runs.
-* Miss >1 week, spend equal amount of days doing easy runs.
-* Miss > 1 month, back to base.
+**Important** If you've taken a break from training, you'll need to adjust your starting point. Here's a general guide:
+
+* Missed 1-3 days: Resume training as planned.
+* Missed 4-7 days: (added "of training") Ease back in with 1-4 days of easy runs before resuming * harder or longer efforts.
+* Missed > 1 week: Spend an equal amount of time doing easy runs to rebuild your base.
+* Missed > 1 month: Start back at a base training level.
 
 ### Overaload
 
-Overload is the mechanism that pushes your body out of the comfort zone, so that it understands that it needs to be more powerful or more efficient in order to handle such stress. It is how our body improve our performance.
+**Overload** is the mechanism that forces your body to adapt and become stronger. It pushes you outside your comfort zone, signaling to your body that it needs to improve to handle the new stress. This is how you achieve progress in your running.
 
-If not enough stimulation, then performance improvement can be slow, if any. This is because the body's current fitness level can perfect handle the training, so there is no need for human body to change. As a result, it needs to be "over" the current comfort level.
-
-We can overload by:
-
-* applying more load. E.g., longer distance, faster pace.
-* changing schedules. E.g., vary speed or distance for interval/tempo, more frequnt runs.
-* changing course. E.g., replace some speed run with hill runs, or trail runs.
-* simulate different muscle groups for strength training.
-
-All above are examples to bring the training out of the regular comfort zone.
+Not enough stress, means slow or nonexistent improvement.f your current training feels too easy, your body won't feel the need to adapt. To trigger improvement, you need to push yourself beyond your comfort zone.
 
 Just be aware, *overload* is a double-edged sword. It needs to be controlled to be *progressive*, otherwise, it is an invite for over-training.
 
 ### What to overload?
 
-It will definite be case by case, depending on one's goal and bottleneck.
+The specific areas you overload will depend on your individual goals and weaknesses. Here are some general guidelines:
 
-Here are the general thoughts:
-
-1. Volume of easy running per week
-1. More frequent workouts
-1. Longer long runs
-1. More frequent long runs
-1. Start lifting weights (or, lift heavier weights)
-1. More overall cross-training volume
-1. Longer workouts
+1. Easy run volume: Gradually increase the total distance of your easy runs each week.
+1. Workout frequency: Add more workouts to your weekly routine.
+1. Long runs: Gradually increase the distance of your long runs.
+1. Long run frequency: Schedule more long runs throughout your training cycle.
+1. Strength training: Start lifting weights, or increase the weight you lift in your existing 1. strength routine.
+1. Cross-training: Increase the overall volume of your cross-training activities.
+1. Workout duration: Extend the length of your harder training sessions.
 
 ## Recovery
 
 Recovery is the time to harvest the positive results from hard workout. With progressive training, your body is in a micro-"broken" state, where good recovery can over-compensate.
 
-We want to fully harvest such over-compensation through recovery. Many people only reconganized the training aspect, because that is the part require active engagement. However, the passive recovery is when the benefits happens.
+We want to fully harvest such supercompensation through recovery. Many people only reconganized the training aspect, because that is the part require active engagement. However, the passive recovery is when the benefits happens.
 
 There are many indicators you can use to guide the recovery.
 
-* general tiredness
-* wake-up [resting heart rate](../heart_rate/#resting-heart-rate)
-* HRV - it is a new popular indicator. However, you should only compare it with your own recent history, since the metric can be contraversial when comparing with others, with different calculators, or even with distant history.
-* muscle soreness
-* heart rate during warmup
+* General fatigue
+* Wake-up [resting heart rate](../heart_rate/#resting-heart-rate)
+* Heart rate variability(HRV) - This is a new and popular recovery metric. However, it's best to compare your HRV only with your own recent history, as the metric can vary significantly between individuals and with different measurement tools.
+* Muscle soreness
+* Heart rate during warmup runs
 
 Overally, I would put one's self assessed recovery more than the training plan. Adjustment should be made if your body tells you to rest!
 
@@ -83,29 +78,27 @@ During a long (macro) cycle, a rest period (usually a week) is often introduced 
 
 ## Cycles
 
-Training is better done in cycles with **Progressive overloading** and **recovery**.
+Training is most effective when organized into cycles that incorporate **progressive overloading** and **recovery**.
 
-* Macro cycles - 16-26 weeks. Full cycle
-  * Typically consists of multiple meso cycles. E.g., base --> tempo --> interval.
-* Meso cycles - 2-6 weeks
-  * Based on dody adaptation cycles - **one focus at a time to avoid over-training**
-  * Overload → then may need recovery in between - cut-back 25-50% volume (need deload by the end of the meso cycle)
-* Micro cycles - 1 week
-  * 2-4 “effort” workouts per week - to avoid over training. Allow sufficient recovery.
+* **Macro cycles:** 16–26 weeks, covering the full training period.
+  * Includes multiple mesocycles, e.g., base → tempo → intervals.
+* **Mesocycles:** 2–6 weeks, focusing on specific adaptations.
+  * Overload followed by recovery, often with a 25–50% reduction in volume.
+* **Microcycles:** 1 week, typically with 2–4 effort sessions and adequate recovery.
 
 ## Mentality
 
-Not only your body, your brain also needs to be able to handle stressful and long running sessions.
+Mental strength is as important as physical fitness for running, especially during long and intense sessions.
 
-Different training types serves different purposes
+### Purpose of Different Training Types:
 
-1. Long run teaches the brain to handle long duration, while keep the mental and physical body stimulated. It is often the most important type of training for novice distance runners.
-1. Tempo run teaches the brain to understand body's limit during prolonged highly stressful exercies.
-1. Interval teaches the brain the top speed it can handle, and for how long.
+1. **Long runs:** Train your brain to handle long-duration efforts while staying mentally and physically engaged. Crucial for novice distance runners.
+1. **Tempo runs:** Help your brain recognize and push limits during sustained high-stress efforts.
+1. **Intervals:** Develop your capacity to handle short bursts of maximum effort.
 
-Overall, training is teaching the brain to understand the limits of the body, so that it can handle different situations to achieve good performance.
 
-A good habbit to reinforce the mental training is to keep running logs.
+Overall, training teaches your brain to understand your physical limits and manage stress for optimal performance. Keeping a running log is an excellent way to reinforce mental training.
+
 
 ## Priority list
 
@@ -115,7 +108,7 @@ Overall, injury prevention should be on top of the list.
 1. Injuery free / General health
     * Rest
     * Nutrition
-1. Base
+1. Base buildings
     * Base of everything related to running.
     * Distance, speed, stability, flexibility, strength.
     * Efficiency
