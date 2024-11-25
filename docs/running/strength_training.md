@@ -6,6 +6,23 @@ parent: Running
 1. TOC
 {:toc}
 
+## Exercise Types
+
+* Endurance training:
+  * High repetitions (15+) with lighter weights (2-4 sets).
+  * Shorter rest periods between sets.
+  * Focuses on muscle fatigue resistance.
+
+* Strength training:
+  * Low repetitions (1-5) with heavier weights (2-4 sets).
+  * Longer rest periods between sets.
+  * Aims to maximize maximal force production.
+
+* Hypertrophy training:
+  * Moderate repetitions (6-12) with moderate weights (4-6 sets).
+  * Moderate rest periods between sets.
+  * Focuses on muscle growth.
+
 ## By Area
 
 {: .note }
@@ -69,9 +86,79 @@ We start with complex exercises, where multiple muscle groups are involved. Then
     * Touch your left hand to your right shoulder, then vice versa.
     * Keep your pelvis level. If you find you are rotating your pelvis, widen your legs or drop to your knees.
 
+## Plyometrics
+
+Plyometrics are exercises in which muscles exert maximum force in short intervals of time, with the goal of increasing power (speed-strength).
+
+It differs from conventional exercies mostly in explosiveness and speed. It typically engage multiple muscle groups and is often helpful for improving running forms as well.
+
+### Start slow and progress with caution
+
+Always access your base first. Make sure you already can perform static and relative slow motioned mutation of the exercise (e.g., a standard bodyweight squat) first.
+
+At first, focus on form instead of how much or how fast you can archieve. By nature, plyometrics put more pressure on your body (muscles and joints), so always pay more attention to your body and form to avoid any injury.
+
+* Knees and Toes Alignment: Keep  knees behind the toes.
+* Engage your core and keep your back flat.
+* Quality Over Quantity
+* Land softly
+
+Be patient - include a proper warmup and cooldown. Start with 2 sets of 8-15 repetitions, and if possible gradually increase to 4 sets.
+
+### Sample exercies
+
+Many interval or high intensity exercies (e.g. HIIT) are in the form of Plyometrics.
+
+1. [Skipping](https://simpleshue.github.io/misc/docs/running/warmup_cooldown/#Warm-up)
+2. Jump Squat
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U4s4mEQ5VqU?si=RgQ-xNU89SZZ7Rb-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+3. Jumping lunge (optional - with knee up)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y7Iug7eC0dk?si=0kt58_29kU5Ye8yN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+4. Side hops
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pIKBH4hvL6A?si=YwFabI-3nqrLjGd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+5. Single-Leg Lateral Jumps
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V8uZ1qdsOQM?si=rsmAyG5VQKy33EaK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+6. Burpee
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dZgVxmf6jkA?si=hkKfH1ygPi1uE_Jv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+7. Box jump
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hxldG9FX4j4?si=rEQqEQgc8Ac54TN9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+8. Skier Jumps
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKVovgiq0Mw?si=lsEFtonISf6-k5P0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+9. Interval running
+
 ## Theory
 
-[BEST Exercises for Runners](https://youtu.be/GcZJhNi2yOM?si=lOzsqXmWts7HvHCt) divided strength training into seveal aspects:
+[This is What Exercise Does to Your Muscles] provides an excellent overview of our muscle systems (with my notes for specific training types):
+
+* Cardiovascular
+  * Aerobic base - long/easy run
+  * VO2 max - long/easy run/tempo
+  * Anaerobic - tempo/interval
+* Musculoskeletal
+  * Endurance - low weight-high rep exercies, long/eash/tempo runs
+  * Hypertrophy - medium weight, medium rep exercies
+  * Strength - heavy weight, low rep exercises
+  * Power - Plyometrics
+  * Speed - Plyometrics
+  * Motor learning - Plyometrics, stability
+
+Each of our exercises should reflect some of the above aspects.
+
+[BEST Exercises for Runners] divided strength training into seveal aspects:
 
 * Plyometrics
 * Explosive reistance
@@ -108,6 +195,6 @@ Trail running is also a very good way to keep your foot swift.
 
 ---
 
-[Stephen Scullion's youtube video: GYM routine for runners](https://youtu.be/SnNlrFcXjVU?si=jZTqNn0CksOiQkXD)
+[BEST Exercises for Runners]: https://youtu.be/GcZJhNi2yOM?si=lOzsqXmWts7HvHCt
 
-[BEST Exercises for Runners](https://youtu.be/GcZJhNi2yOM?si=lOzsqXmWts7HvHCt)
+[This is What Exercise Does to Your Muscles]: <https://youtu.be/V0CubWhVxbk?si=X5U8gHqSIqVHVlnw>
