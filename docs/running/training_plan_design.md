@@ -90,15 +90,13 @@ Training is most effective when organized into cycles that incorporate **progres
 
 Mental strength is as important as physical fitness for running, especially during long and intense sessions.
 
-### Purpose of Different Training Types:
+### Purpose of Different Training Types
 
 1. **Long runs:** Train your brain to handle long-duration efforts while staying mentally and physically engaged. Crucial for novice distance runners.
 1. **Tempo runs:** Help your brain recognize and push limits during sustained high-stress efforts.
 1. **Intervals:** Develop your capacity to handle short bursts of maximum effort.
 
-
 Overall, training teaches your brain to understand your physical limits and manage stress for optimal performance. Keeping a running log is an excellent way to reinforce mental training.
-
 
 ## Priority list
 
