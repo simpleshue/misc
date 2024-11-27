@@ -42,7 +42,7 @@ The good news is our body can be trained to improve fat utilization (for example
 
 ## Debate in Stress vs Performance (Fasted Training)
 
-There is a debate that while training with low carb to improve fat efficiency, our body is likely not at its peak peroformance state. As a result, our body can't get as much as stimulus from the training. If we really want to push to train at  high level, a high risk of injury is another concern. For females, such training may impact worse hormone balance more.
+There is a debate that while training with low carb to improve fat efficiency, our body is likely not at its peak peroformance state. As a result, our body can't get as much as stimulus from the training. If we really want to push to train at  high level, a high risk of injury is another concern. For females, such training may impact worse hormone balance more[^2].
 
 Nowadays, atheletes can get enough carb fueling during a race without much difficulty, so fat-efficiency oriented training is not that attractive for most people.
 
@@ -51,5 +51,4 @@ Nowadays, atheletes can get enough carb fueling during a race without much diffi
 ## Reference
 
 [^1]: [Marathon Fueling Techniques: Physiologic Understanding and a Proposed Intake Schedule](https://journals.lww.com/nsca-scj/Fulltext/2008/10000/Marathon_Fueling_Techniques__Physiologic.9.aspx).
-
 [^2]: [Fasted Training May Have Long-Term Risks, Especially For Female Athletes](https://just-the-docs.github.io/just-the-docs/).
