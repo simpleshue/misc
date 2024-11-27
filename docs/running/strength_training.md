@@ -6,7 +6,9 @@ parent: Running
 1. TOC
 {:toc}
 
-## Exercise Types
+## Theory
+
+### Exercise Types (for Muscles)
 
 * Endurance training:
   * High repetitions (15+) with lighter weights (2-4 sets).
@@ -23,7 +25,60 @@ parent: Running
   * Moderate rest periods between sets.
   * Focuses on muscle growth.
 
-## By Area
+### Aspects of Muscle Systems
+
+[This is What Exercise Does to Your Muscles] provides an excellent overview of our muscle systems (with my notes for specific training types):
+
+* Cardiovascular
+  * Aerobic base - long/easy run
+  * VO2 max - long/easy run/tempo
+  * Anaerobic - tempo/interval
+* Musculoskeletal
+  * Endurance - low weight-high rep exercies, long/eash/tempo runs
+  * Hypertrophy - medium weight, medium rep exercies
+  * Strength - heavy weight, low rep exercises
+  * Power - Plyometrics
+  * Speed - Plyometrics
+  * Motor learning - Plyometrics, stability
+
+Each of our exercises should reflect some of the above aspects.
+
+[BEST Exercises for Runners] divided strength training into seveal aspects:
+
+* Plyometrics
+* Explosive reistance
+* Strength
+
+### Muscle for Running Fast
+
+When running faster, the most demand longer strides comes from
+
+* Glute
+* Quads
+* Calves
+
+But the demand for faster cadence is from
+
+* Hamstring – for lift lower legs
+* Iliopsoas (髂腰肌) - for lifting thighs
+
+Most training should probably be done for the raw strength, which builds the base. Explosive and swift aspects should also be practiced for both speed and safety.
+
+Most training we have mentioned so far focus on raw strength. Now we mention a few for explosiveness and swiftness
+
+### Explosiveness
+
+Box jumps, and Explosive step-up are recommended in the video. Interval training is also a good exercise, which is more natural to running.
+
+### Swiftness
+
+The video recommended various jumps. To add more, I believe jumping rope should be included. It is well regarded in various other sports.
+
+Various other foot drills also helps to improve self-awareness of leg movement.
+
+Trail running is also a very good way to keep your foot swift.
+
+## Exercies - By Area
 
 {: .note }
 I labeled each exercise of the format `numberAlphabet`.  number indicates one body area, while alphabet indicates alternative ways to exercise. For a complete workout, we can to go over all numbers, while picking one alphabet group at a time. For example, we can pick 1A, 2A, ... for one exercise, and the next time (maybe a few days later) we can pick 1B, 2B, ....
@@ -105,11 +160,12 @@ At first, focus on form instead of how much or how fast you can archieve. By nat
 
 Be patient - include a proper warmup and cooldown. Start with 2 sets of 8-15 repetitions, and if possible gradually increase to 4 sets.
 
-### Sample exercies
+### Sample exercies (plyometrics)
 
 Many interval or high intensity exercies (e.g. HIIT) are in the form of Plyometrics.
 
 ### [Skipping](https://simpleshue.github.io/misc/docs/running/warmup_cooldown/#Warm-up)
+
 ### Jump Squat
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U4s4mEQ5VqU?si=RgQ-xNU89SZZ7Rb-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -139,59 +195,6 @@ Many interval or high intensity exercies (e.g. HIIT) are in the form of Plyometr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GKVovgiq0Mw?si=lsEFtonISf6-k5P0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Interval running
-
-## Theory
-
-[This is What Exercise Does to Your Muscles] provides an excellent overview of our muscle systems (with my notes for specific training types):
-
-* Cardiovascular
-  * Aerobic base - long/easy run
-  * VO2 max - long/easy run/tempo
-  * Anaerobic - tempo/interval
-* Musculoskeletal
-  * Endurance - low weight-high rep exercies, long/eash/tempo runs
-  * Hypertrophy - medium weight, medium rep exercies
-  * Strength - heavy weight, low rep exercises
-  * Power - Plyometrics
-  * Speed - Plyometrics
-  * Motor learning - Plyometrics, stability
-
-Each of our exercises should reflect some of the above aspects.
-
-[BEST Exercises for Runners] divided strength training into seveal aspects:
-
-* Plyometrics
-* Explosive reistance
-* Strength
-
-### Muscle for running fast
-
-When running faster, the most demand longer strides comes from
-
-* Glute
-* Quads
-* Calves
-
-But the demand for faster cadence is from
-
-* Hamstring – for lift lower legs
-* Iliopsoas (髂腰肌) - for lifting thighs
-
-Most training should probably be done for the raw strength, which builds the base. Explosive and swift aspects should also be practiced for both speed and safety.
-
-Most training we have mentioned so far focus on raw strength. Now we mention a few for explosiveness and swiftness
-
-### Explosiveness
-
-Box jumps, and Explosive step-up are recommended in the video. To me, I believe interval training is also a good exercise, which is more natural to running.
-
-### Swiftness
-
-The video recommended various jumps. To add more, I believe jumping rope should be included. It is well regarded in various other sports.
-
-Various other foot drills also helps to improve self-awareness of leg movement.
-
-Trail running is also a very good way to keep your foot swift.
 
 ---
 
