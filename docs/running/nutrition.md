@@ -34,8 +34,8 @@ The big differences are:
 
 |             | Fat                                                                                                | Carbohydrate                                                                                 |
 |-------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Utilization | *Hard - only aerobically and requires more oxygen. <br>* Slow - two times longer than carb metabolism | Easy, both aerobically and anaerobically                                                     |
-| Reserve     | A lot  (up to ~2000h @ 60% VO2Max)                                                                 | Limited:  <br> *Muscle glycogen can provide ~2h of energy <br>* Liver stores ~20% of body's glycogen |
+| Utilization | Hard - only aerobically and requires more oxygen. <br>Slow - two times longer than carb metabolism | Easy, both aerobically and anaerobically                                                     |
+| Reserve     | A lot  (up to ~2000h @ 60% VO2Max)                                                                 | Limited:  <br>Muscle glycogen can provide ~2h of energy <br>Liver stores ~20% of body's glycogen |
 | Absorption  | Slow - almost impossible during a race                                                             | Quick - possible during a race                                                               |
 
 The good news is our body can be trained to improve fat utilization (for example, by high fat diet, and/or exercise with low carb reserve). The bad news is that our carb efficiency may drop while doing that. Basically, the metabolism of the two sources compete with each other on limited resources such as oxygen, water, blood PH level and entry into mitochondria.
