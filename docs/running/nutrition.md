@@ -40,27 +40,13 @@ The big differences are:
 
 The good news is our body can be trained to improve fat utilization (for example, by high fat diet, and/or exercise with low carb reserve). The bad news is that our carb efficiency may drop while doing that. Basically, the metabolism of the two sources compete with each other on limited resources such as oxygen, water, blood PH level and entry into mitochondria.
 
-## Debate in Stress vs Performance
+## Debate in Stress vs Performance (Fasted Training)
 
 There is a debate that while training with low carb to improve fat efficiency, our body is likely not at its peak peroformance state. As a result, our body can't get as much as stimulus from the training. If we really want to push to train at  high level, a high risk of injury is another concern. For females, such training may impact worse hormone balance more.
 
 Nowadays, atheletes can get enough carb fueling during a race without much difficulty, so fat-efficiency oriented training is not that attractive for most people.
 
 (See [Fuel for the Long Run: The Science of Different Fuel Sources](https://www.irunfar.com/fuel-for-the-long-run-the-science-of-different-fuel-sources) for details.)
-
-## Fasted Running
-
-Benefits:
-
-* force body to increase fat consumption efficiency
-* similar benefits as intermitted fasting
-
-Concerns:
-
-* lowers performance/training quality
-* decrease muscle breakdown, worse hormone balance and metabolic disturbances, particularly for females
-
-Conclusion - the slight benefit from improving fat consumption efficiency probably does not weigh as much as general health. Instead, always consider fueling your training, specially hard ones [^2].
 
 ## Reference
 
