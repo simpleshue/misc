@@ -3,23 +3,6 @@ title: Nutrition
 parent: Running
 ---
 
-## Fasted Running
-
-Benefits:
-
-* force body to increase fat consumption efficiency
-* similar benefits as intermitted fasting
-
-Concerns:
-
-* lowers performance/training quality
-* decrease muscle breakdown, worse hormone balance and metabolic disturbances, particularly for females
-
-Conclusion - the slight benefit from improving fat consumption efficiency probably does not weigh as much as general health. Instead, always consider fueling your training, specially hard ones.
-
-Reference:
-
-* [Fasted Training May Have Long-Term Risks, Especially For Female Athletes](https://just-the-docs.github.io/just-the-docs/)
 
 ## Fueling
 
@@ -59,8 +42,28 @@ The good news is our body can be trained to improve fat utilization (for example
 
 ## Debate in Stress vs Performance
 
-There is a debate that while training with low carb to improve fat efficiency, our body is likely not at its peak peroformance state. As a result, our body can't get as much as stimulus from the training. If we really want to push to train at  high level, a high risk of injury is another concern. Plus, nowadays, atheletes can get enough carb fueling during a race without much difficulty, so fat-efficiency oriented training is not that attractive for most people.
+There is a debate that while training with low carb to improve fat efficiency, our body is likely not at its peak peroformance state. As a result, our body can't get as much as stimulus from the training. If we really want to push to train at  high level, a high risk of injury is another concern. For females, such training may impact worse hormone balance more.
+
+Nowadays, atheletes can get enough carb fueling during a race without much difficulty, so fat-efficiency oriented training is not that attractive for most people.
 
 (See [Fuel for the Long Run: The Science of Different Fuel Sources](https://www.irunfar.com/fuel-for-the-long-run-the-science-of-different-fuel-sources) for details.)
 
+## Fasted Running
+
+Benefits:
+
+* force body to increase fat consumption efficiency
+* similar benefits as intermitted fasting
+
+Concerns:
+
+* lowers performance/training quality
+* decrease muscle breakdown, worse hormone balance and metabolic disturbances, particularly for females
+
+Conclusion - the slight benefit from improving fat consumption efficiency probably does not weigh as much as general health. Instead, always consider fueling your training, specially hard ones [^2].
+
+## Reference
+
 [^1]: [Marathon Fueling Techniques: Physiologic Understanding and a Proposed Intake Schedule](https://journals.lww.com/nsca-scj/Fulltext/2008/10000/Marathon_Fueling_Techniques__Physiologic.9.aspx).
+
+[^2]: [Fasted Training May Have Long-Term Risks, Especially For Female Athletes](https://just-the-docs.github.io/just-the-docs/).
