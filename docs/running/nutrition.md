@@ -49,11 +49,11 @@ Fueling sources during endurance running is often split into fat and carbohydrat
 
 The big differences are:
 
-|             | Fat                                    | Carbohydrate                             |
-|-------------|----------------------------------------|------------------------------------------|
-| Utilization | Hard, only aerobically                 | Easy, both aerobically and anaerobically |
-| Reserve     | A lot  (up to ~ 2000h @ 60% VO2Max)    | Limited (Muscle glycogen can provide ~ 2h of energy)                                 |
-| Absorption  | Slow - almost impossible during a race | Quick - possible during a race           |
+|             | Fat                                    | Carbohydrate                             |   |
+|-------------|----------------------------------------|------------------------------------------|---|
+| Utilization | Hard, only aerobically                 | Easy, both aerobically and anaerobically |   |
+| Reserve     | A lot                                  | Limited                                  |   |
+| Absorption  | Slow - almost impossible during a race | Quick - possible during a race           |   |
 
 The good news is our body can be trained to improve fat utilization (for example, by high fat diet, and/or exercise with low carb reserve). The bad news is that our carb efficiency may drop while doing that. Basically, the metabolism of the two sources compete with each other on limited resources such as oxygen, water, blood PH level and entry into mitochondria.
 
