@@ -46,9 +46,10 @@ There is a debate that while training with low carb to improve fat efficiency, o
 
 Nowadays, atheletes can get enough carb fueling during a race without much difficulty, so fat-efficiency oriented training is not that attractive for most people.
 
-(See [Fuel for the Long Run: The Science of Different Fuel Sources](https://www.irunfar.com/fuel-for-the-long-run-the-science-of-different-fuel-sources) for details.)
+(See [^3] for details.)
 
 ## Reference
 
 [^1]: [Marathon Fueling Techniques: Physiologic Understanding and a Proposed Intake Schedule](https://journals.lww.com/nsca-scj/Fulltext/2008/10000/Marathon_Fueling_Techniques__Physiologic.9.aspx).
 [^2]: [Fasted Training May Have Long-Term Risks, Especially For Female Athletes](https://just-the-docs.github.io/just-the-docs/).
+[^3]: [Fuel for the Long Run: The Science of Different Fuel Sources](https://www.irunfar.com/fuel-for-the-long-run-the-science-of-different-fuel-sources)
