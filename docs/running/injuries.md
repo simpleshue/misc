@@ -146,16 +146,98 @@ Treatments are similar to PF
 
 ### Achilles Tendon Injuries
 
-Causes - the common cause is over-use. 
+Causes - the common cause is over-use.
 
 #### Treatment
 
-Note, tendon heals very slowly. The way our body heals is to lay down new fibers. However, such newly formed layers can be damaged by excess stretching. 
+Note, tendon heals very slowly. The way our body heals is to lay down new fibers. However, such newly formed layers can be damaged by excess stretching.
 
 To avoid it, pay special attention to calf stretching/strengthening exercises. You can replace stretching calves with foam roller, or massage.
 
 Avoid low-heel (or low drop) shoes to reduce load on the tendon. Some amount of cushion can be considered as well.
 
+## Anterior cruciate ligament (ACL) injury
+
+(Note, this is mostly my notes from the "Resources" section below)
+
+### Overview
+
+About 2/3 people suffered from ACL injury can't return to the sports, and many of them develop chronicle issues. Many atheletes suffer from ACL injury since it is one of the most volunerable part of our lower body that bears extreme stress during sports.
+
+There is a recent trend of such injury in young atheletes, possibly indicating increased risk due to new life style or increased competition levels.
+
+### Evaluation
+
+A 3 point inspection is proposed by different sources, which focuses on three parts of our body.
+
+1. Upper body alignment:
+    * Ear-shoulder-hip should be in a straight line.
+    * Chest up. Eye up. Shoulders down, back and even.
+    * While standing by the wall: heel, hip and back of head should touch the wall. Standing tall.
+1. Middle body alignment / core control:
+    * Pelvis(waist line) should be horizontal, when viewed from front and side. Maintain horizonal pelvis while performing different positions:
+        * Lower to the quarter squat position (thigh 45 degree, arms straight forward)
+            * To find the right position, tilt pelvis back and force, to find a natural position.
+            * For *Anterior pelvis tilt* (tilt too much forward):
+                * Ribs down, belly button towards spline
+            * For *posterior pelvis tilt* (tilt too much backward):
+                * Chest up, arch lower back
+            * (Stability) Make sure can maintain such position while being pushed lightly on the back.
+        * Single leg knee up stand
+        * Plank – spine in neutral position
+1. Lower body alignment:
+    * Hip-knee-ankle in a straight line, when viewed from front
+    * Knee cap over pinky toe  
+    * Maintain such alignment while in different positions and movements:
+        * Quarter squat
+        * Running forward (both knees should be in alignment at any time)
+        * Jumping (jumping jack, squat jump, forward/backward hop)
+        * Changing direction (lateral jump, run-then-stop, run-then-stop/turn).
+
+### Prevention
+
+Fortunately, neuromuscular training is proved to reduce such risk dramatically. Such training should cover all following phases:
+
+* Movement prepare  
+  * A/B/C Skip - keep all 3 points in the right positions
+* Core control
+  * Plank (standard, side)
+  * Superman position
+  * Single leg knee up (or touch the heel with hand), while maintaining the 3 points. 
+* Lower body strengthening  
+  * Lounge
+  * Standard squat
+  * Single leg squat
+  * Toe up
+  * Jump
+* Jump and landing
+  * Double leg hop (left and right)
+  * Scissor jump (lounge, jump, switch legs and land).
+  * Squat jump
+    * Start from standing position
+    * Small hop to the quarter squat position, make sure to check all the 3 points
+    * When landing, move hip  slightly backwards to absorb the shock, and land softly on the balls of the feet
+    * Arms forward to keep balance
+    * (advanced) Vertical/forward jump, and back down to the squat position
+    * Cues – hip back, chest up, eye forward, land softly
+* Change speed and direction  
+  * Run forward and stop
+    * Lower center of gravity
+    * Move/run forward
+    * Widen the base of support (leg spread out wide)
+    * 3 steps to a full stop
+    * (Mutation) 3 steps to a full stop with 90-degree turn. In this case, the exerior leg bear more force.
+  * Snake run - run around a series of cones.
+
+HSS provides [a greate collection of neromuscular warmups](https://drive.google.com/file/d/1wZPTp0XYJkSFBC0B8_yICts-BZJA4fDC/view) based on [skill levels](https://drive.google.com/file/d/1gZOIjGQKcpK2BGykUYu93gWD0O_V_T22/view).
+
+### Resources
+
+* [Prodject Play](https://projectplay.org/acl-injury-prevention/solutions)
+* [A Guide to Neuromuscular Training](https://www.hss.edu/article_neuromuscular-training.asp)
+* [HSS injury prevention playlist of 30min exercises](https://www.youtube.com/playlist?list=PLDps2oOp60a5TMzecdNmb5AIq5HjNkTzo)
+* [ACL injuery prevension course](https://nfhslearn.com/courses/acl-injury-prevention)
+* [How to Evaluate Your Child's Movement](https://sports-safety.hss.edu/p/how-to-evaluate-your-child-s-movement)
 
 ## A Note on Rest
 
@@ -164,3 +246,5 @@ It is a bit contraversial that lying-flat kind of rest is not suggested, since i
 Depending on the severity of the condition, the pain may kick in only after certain distance (e.g. 2 mile of running). So try to run in a moderate pace and stop before 2 miles. You can repeat after some rest. This kind of run-and-rest will allow the muscles some time to rest and recovery, while still being stimulated to perform. Note, don't push it too hard, and it may reduce the speed of recovery.
 
 Another suggestion is to consider other (hopefully related) sports, that can maintain physical conditions while reduce the load on the particular area (foot in this case). So things like cycling and rolling are good options. Actually, many runner may find symptom reduced by simply running on threadmills or rubber running tracks, where the extra cusion from the ground reduces shocks to the feet.
+
+## References
