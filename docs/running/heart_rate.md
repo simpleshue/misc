@@ -50,12 +50,16 @@ With such as morning indicator, it gives you a general sense of one's overall ph
 
 Personally, I would reduce or even avoid hard workout when the morning resting heart rate is abnormally high. (See [Patterns](#patterns) below for more discussion on how various factors can effect resting heart rate).
 
+### Orthostatic heart rate
+
+Unlike resting heart rate, we care more about the reserve during running. Orthostatic heart rate is measured when standing, typically 10-15 beats higher than resting HR.
+
 ### Heart rate reserve
 
 Heart rate reverse describes the room one can push during exercise. So, don't be sad when one find a high Max Heart Rate. It means you have higher capacity!
 
 ```text
-HR reserve = HR max − HR rest
+HR reserve = HR max − HR orth
 ```
 
 ### Heart Rate Variability(HRV)

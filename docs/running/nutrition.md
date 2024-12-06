@@ -8,7 +8,11 @@ parent: Running
 
 Generally, activities shorter than 90 minutes do not require additional fueling.
 
+### Before the RaceDay
+
 [The Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/carbohydrates/art-20045705) currently recommends that you consume 8 to 12 grams per kilogram of body weight of carbohydrate per day in the two to three days prior to their event, while resting or significantly dialing back their training.
+
+### On the Race Day
 
 On the race day, it suggests targeting 2 to 4 grams of carbs per kilogram of body weight two to four hours prior to your race.
 
@@ -25,6 +29,10 @@ Note, carb intake typically has little impact of the first 60-minute performance
 [^1] provided a sample fueling/drinking schedule. Note that the latter stages of the race, however, have less focus on simple hydration.
 
   ![fueling_schedule]({{ site.baseurl }}/assets/images/running/sample_fueling_schedule.jpeg)
+
+### Tips
+
+Don't swallow a gel all at once. Take time - e.g., between a quarter and one mile of running distance. Taka  a little of the gel at a time.
 
 ### Fat vs Carbohydrate
 
