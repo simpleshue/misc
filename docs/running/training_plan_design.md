@@ -119,3 +119,4 @@ Overall, injury prevention should be on top of the list.
 ## Resource
 
 * [Time to Run train plans](https://www.codyhoover.com/time-to-run/) - a wide selection of training plans.
+* [fellrnr.com's Running Calculator with FIRST training plans](https://fellrnr.com/wiki/Running_Calculator)
