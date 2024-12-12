@@ -43,16 +43,6 @@ The following forms of exercises offers specific benefits for running:
 1. Plyometrics - running economy
 1. Hill run - can be considered as a combination of HIIT (uphill) and Strength training (downhill, focusing on eccentric load)
 
-### A word on Tempo
-
-Tempo refers to continuous running at a relatively high speed (e.g., Lactate threshold speed) for a considerable long distance (longer than intervals). It sits between long run and interval runs, which puts stress in multiple trainable factors. 
-
-There is a lot of debate on effectiveness of tempo training. For professionals, extended tempo training means to sacrifice scarce resources (time, stress quote the body can take and recover from), which may lead to less-ideal performance improvement. On the other hand, polarized training approach is often preferred, where long run and HIIT are used as the main training types. The argument for polarized training is:
-
-1. Long run at easy pace allow for fast recovery, while specifically targeted on training for endurance (e.g., higher volume).
-1. HIIT also specifically targets running economy, and puts less stress on the body. It also allows the athletes to training more at the higher intensity.
-
-For beginners though, tempo still offers training benefit. But it may also increase the risk of injuery. To make an analogy, tempo training is like those complex weight-lifting workout, which engages many muscle groups. While you can archieve many things at once, none of the muscles groups receives strong stimulus. While the weight increases, some weak-link may be put on too much stress, leading to injury. While some more specific exercise can be better controlled to avoid injury.
 
 ## References
 

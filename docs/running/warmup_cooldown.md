@@ -34,6 +34,12 @@ A typical routine:
     * High knees
     <iframe width="560" height="600" src="https://www.youtube.com/embed/IdIlyOKozx4" title="How To Do High Knees #runningdrills #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Warm-up before race
+
+For races shorter than full marathon, it is often beneficial to warm up sufficiently before the race, e..g, some slow jogging, or dynamic stretching (note, stretching may weaken muscles temporarily).
+
+For full marathon or longer races, glycogen reserve is an important factor to consider. Many runners  use the first mile as a warmup. To faster runners, some gentle warm up might be helpful while balancing the two is tricky.
+
 ## Cool-down
 
 Mostly static stretch
