@@ -164,7 +164,7 @@ Be patient - include a proper warmup and cooldown. Start with 2 sets of 8-15 rep
 
 Many interval or high intensity exercies (e.g. HIIT) are in the form of Plyometrics.
 
-### [Skipping](https://simpleshue.github.io/misc/docs/running/warmup_cooldown/#Warm-up)
+### [Skipping](../warmup_cooldown/#Warm-up)
 
 ### Jump Squat
 
