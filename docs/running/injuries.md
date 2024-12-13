@@ -203,7 +203,7 @@ Fortunately, neuromuscular training is proved to reduce such risk dramatically. 
 * Core control
   * Plank (standard, side)
   * Superman position
-  * Single leg knee up (or touch the heel with hand), while maintaining the 3 points. 
+  * Single leg knee up (or touch the heel with hand), while maintaining the 3 points.
 * Lower body strengthening  
   * Lounge
   * Standard squat

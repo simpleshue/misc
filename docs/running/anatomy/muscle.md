@@ -17,7 +17,6 @@ parent: Anatomy
 | Rate of ATP use                             | Slow                                           | Fast                                                                                               | Fast                                                         |
 | Contraction velocity                        | Slow                                           | Intermediate                                                                                       | Fast                                                         |
 
-
 ## Muscle Fibers for Endurance Runners
 
 Obviously, the most important muscle fiber type for endurance runners is Slow switch fiber (type I, or Slow oxidative). It is fatigue resistent and very energy efficient.

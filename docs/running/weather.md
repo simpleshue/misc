@@ -31,9 +31,6 @@ Below is the adjustment chart from [Maximum Performance Running](https://maximum
   
   ![adjustment]({{ site.baseurl }}/assets/images/running/running_adj_heat.png)
 
-
-
-
 ## Run in the Cold
 
 ### Protection
