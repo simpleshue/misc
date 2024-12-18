@@ -14,7 +14,7 @@ Generally, activities shorter than 90 minutes do not require additional fueling.
 
 ### On the Race Day
 
-On the race day, it suggests targeting 2 to 4 grams of carbs per kilogram of body weight two to four hours prior to your race.
+On the race day, it suggests targeting 2 to 4 grams of carbs per kilogram of body weight two to four hours prior to your race. (some also recommended 0.5 gram for per pound, whic his effectively 1 gram per kg).
 
 Then, 15 minutes before the start, eat either a couple Medjool dates or a gel.
 

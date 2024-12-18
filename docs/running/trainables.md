@@ -19,6 +19,14 @@ Inspired by [Stephen Seiler](https://www.youtube.com/watch?v=otNngp1u-Ls&t=1878s
     * metabolic adaptations within the muscle such as increased mitochondria and oxidative enzymes
     * the ability of the muscles to store and release elastic energy by increasing the stiffness of the muscles
     * more efficient mechanics leading to less energy wasted on braking forces and excessive vertical oscillation
+  * Major factors contributing to RE [^2]:
+    * Smaller vertical oscillation “showed significant moderate associations” with better RE.
+    * A higher leg stiffness also showed “significant moderate associations” with better RE. Though some research estimate leg stiffness using ground contact time.
+    * A higher cadence “showed a small significant association” with better RE.
+    * No impact on RE:
+      * Where foot first contacts the ground
+      * Ground contact time, stride length, ankle/knee/hip angles
+A higher stride rate “showed a small significant association” with better RE.
   * Can be trained via
     * HIIT
     * Explosive (plyometrics) or maximal strength training  
@@ -45,3 +53,4 @@ The following forms of exercises offers specific benefits for running:
 ## References
 
 [^1]: [Explosive-strength training improves 5-km running time by improving running economy and muscle power](https://journals.physiology.org/doi/full/10.1152/jappl.1999.86.5.1527?checkFormatAccess=true).
+[^2]: [The Relationship Between Running Biomechanics and Running Economy: A Systematic Review and Meta-Analysis of Observational Studies](https://link.springer.com/article/10.1007/s40279-024-01997-3).
