@@ -3,6 +3,8 @@ title: Running Types
 parent: Running
 ---
 
+1. TOC
+{:toc}
 
 ## The Most Common Ones
 
