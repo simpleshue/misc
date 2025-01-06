@@ -56,6 +56,30 @@ Nowadays, atheletes can get enough carb fueling during a race without much diffi
 
 (See [^3] for details.)
 
+## Protein
+
+Protein is often a neglected nutrition to runners.
+
+### Recovery
+
+Muscle can be broken down during exercise. Protein is vital to the recovery and sustaining a healthy immune system.
+
+Like many body builders, [fellrnr](https://fellrnr.com/wiki/Nutrient_Timing) referenced a recommendation of protein/carbohydrate mix immediately after exercise (e.g., within 40mins, with 15g of protein) - Note, I have never tested that.
+
+However, protein is considered to be absorbed slowly, and a relatively large intake can be absorbed slowly. This is especially true for slower-acting protein sources. [This](https://pmc.ncbi.nlm.nih.gov/articles/PMC5828430/) sugguests a >20g protein per meal may result some protein being broken down instead of used to build/repair muscles, but there is still beneficial for muscle to have higher protein intake.
+
+### fellrnr's Example
+
+[fellrnr](https://fellrnr.com/wiki/Nutrient_Timing) suggests 1:4 of protein to carbohydrate mix during exercise, though I have some suspicion about whether our digestion system can handle that during intense exercise.
+
+It also provided an example routine, which consists of a very high protein schedule, with a 263g total protein intake. My guess is that is for a very heavy workout, though I suspect it also varies by person's digestion system.
+
+### Absoption and Muscle synthesis
+
+It was believed that 20-25g protein per meal is the max for muscle. Too much will be broken down. However, [some new study](https://physiqonomics.com/is-there-a-limit-to-how-much-protein-you-can-absorb-in-a-meal/) suggests a large protein intake (100g) can benefit muscle synthesis in the next 12 hours compared with only 4  hours with 25g protein intake.
+
+So it may not be a big concern/waste to consume a large amount of protein at once.
+
 ## Reference
 
 [^1]: [Marathon Fueling Techniques: Physiologic Understanding and a Proposed Intake Schedule](https://journals.lww.com/nsca-scj/Fulltext/2008/10000/Marathon_Fueling_Techniques__Physiologic.9.aspx).
