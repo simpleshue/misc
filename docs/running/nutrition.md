@@ -68,7 +68,8 @@ The following is some note from reading [fellrnr](https://fellrnr.com/wiki/Nutri
 
 Note - unless you want to deliberately training your body in the state of depletedd glycogen, sufficient carb is crucial for a quality training session, and avoid injury.
 
-{: .note } Though there is a concern that near-exercise carhobydrate (30-45min before exercise) may trigger things like insulin spike, but [^5] found few studies supporting that.
+{: .note } 
+Though there is a concern that near-exercise carhobydrate (30-45min before exercise) may trigger things like insulin spike, but [^5] found few studies supporting that.
 
 ### During Exercise
 
