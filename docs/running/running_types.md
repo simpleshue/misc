@@ -89,6 +89,12 @@ To train:
 * start with shorter repeats to get used to the downhill runs, and gradually increase to 2 minutes.
 * resist from practicing downhill runs too often (e.g., once every two weeks). It requires time for muscle to recover from hard downhill training.
 
+### Sprint / Stride
+
+Sprint is a short-distance exercise (100-400m) with all-out effort. It often requires >1.5 minutes recovery, so that the body typically recovers before the next repeat. 
+
+The purpose is to recruit more muscle groups and increase the top speed, which creates room for relatively lower speed and teaches the body how to perform in high speed.
+
 ### Tempo Debate
 
 Tempo refers to continuous running at a relatively high speed (e.g., Lactate threshold speed) for a considerable long distance (longer than intervals). It sits between long run and interval runs, which puts stress in multiple trainable factors.
