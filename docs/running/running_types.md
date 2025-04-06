@@ -6,6 +6,20 @@ parent: Running
 1. TOC
 {:toc}
 
+## Spectrum of Running Types
+
+Often, people emphasize on a particular type of running (see some below). For for a runner, often we will need to consider running ability as a full spectrum of running types （different paces, different distances). Even though the goal is a specific race, one will need to train the full spectrum running abilities, while only tilt towards the race when closer to the race date. Polarized training is often referring to the latter.
+
+Following this perspective, we can consider the "base" as:
+
+* pace - all kinds of paces, from sprint, to VO2Max pace, to conversational pace
+* distance/duration - all the way to the 90-min 
+* strength - raw power, stability and plyometrics
+* skills - forms, understanding of effort, and injury prevention
+
+
+
+
 ## The Most Common Ones
 
 There most common ones are:
