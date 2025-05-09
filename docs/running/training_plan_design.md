@@ -121,3 +121,4 @@ Overall, injury prevention should be on top of the list.
 
 * [Time to Run train plans](https://www.codyhoover.com/time-to-run/) - a wide selection of training plans.
 * [fellrnr.com's Running Calculator with FIRST training plans](https://fellrnr.com/wiki/Running_Calculator)
+* [Best-Practice Training Characteristics Within Olympic Endurance Sports as Described by Norwegian World-Class Coaches](https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-025-00848-3#Sec7)

@@ -31,6 +31,14 @@ Below is the adjustment chart from [Maximum Performance Running](https://maximum
   
   ![adjustment]({{ site.baseurl }}/assets/images/running/running_adj_heat.png)
 
+### Impact on body
+
+Heat does not just impact performance, [this research](https://pubmed.ncbi.nlm.nih.gov/40170530/) found that hard workout in warm weather (~29C) will significantly increase body core temperature (to ~39.6C), which is close to the alerting level similar to fever. It add stress to gut and immune system, may impact recovery and general health. 
+
+Interestinly, [another study](https://pubmed.ncbi.nlm.nih.gov/40249903/) suggesting fueling， particularly carb, during workout improves post-heat performance, though body adapt to heat either way. Also this one found some [Colostrum supplement](https://onlinelibrary.wiley.com/doi/10.1002/ejsc.12288) seems to improve gut functions and endurance performance under heat.
+
+My take away - treat heat with respect and prepare adequate nutrition for better recovery. 
+
 ## Run in the Cold
 
 ### Protection
