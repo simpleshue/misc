@@ -40,6 +40,11 @@ For races shorter than full marathon, it is often beneficial to warm up sufficie
 
 For full marathon or longer races, glycogen reserve is an important factor to consider. Many runners  use the first mile as a warmup. To faster runners, some gentle warm up might be helpful while balancing the two is tricky.
 
+#### Heavy warm-up
+
+A new study [^1] suggests that a heavy warm-up may improve performance for a heavy workout or race, where a 6-min heavy (but submaximal) intensity workout is followed by a 6-min low intensity one. Personally, I would guess that the duration of the 2nd low intensity workout or recovery is crucial. It needs to be long enough to allow sufficient recovery. 
+
+
 ## Cool-down
 
 Mostly static stretch
@@ -60,3 +65,7 @@ Mostly static stretch
     * On a mat
 
         ![on a math]({{ site.baseurl }}/assets/images/running/stretch_it_band_on_mat.png)
+
+## References
+
+[^1]: [Heavy Intensity Priming Exercise Attenuates the Rate of Quadriceps Muscle Fatigue and Improves Time-to-Task Failure during Severe Intensity Cycling]https://journals.lww.com/acsm-msse/abstract/9900/heavy_intensity_priming_exercise_attenuates_the.838.aspx)
