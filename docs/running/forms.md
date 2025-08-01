@@ -67,3 +67,22 @@ Common causes are often weakness in one of the three main power generators, calf
 1. The first treatment is to strengthen the weak point of the three (why not all of them!).
 1. Movement training - practice *push off the ground with glutes*.  It can be done in a stand form (e.g., Bulgarian single leg squat), while avoid keep knees in front of the toes.
 1. Apply the focus to running, from short distance to longer ones.
+
+
+## Cadence
+
+Generally runners maintain a cadence betwen 160-200 in order to be efficient, but that number varies a lot.
+
+A lot of factors contributes to the number
+* distance 
+* surface
+* speed
+* individual body construction
+
+Usually, low cadence is correlated with over-striding, which is inefficient and imposes injury risk. However, before analysing/confirming that, don't force to run in a very different cadence. Instead, take small adjustments, and see if the cadence will improve naturally.
+
+1. arm/elbow movement - arms should be closer to body, and maintain sharper angles (than 90-degrees) in elbows. This reduces the center mass of angular movement.
+1. shoulder - reduce big movements in upper body. Instead, try to just move arms from should joints. Often, upper body should not be still. Rather, some amount of upper body movement is beneficial to absorb and release energy from each stride. The "right" amount of movement is hard to meassure. You can try to reducing the movement slightly. If it makes running "lighter" without sacrificing speed or comfort, then  it is likely in the right direction.
+1. leg/root - reduce ground contact time. By itself is worth a separate topic. A "light" and quick contact saves energy and reduces stress on joints. To train, consider varies skips, e.g., A/B skips.
+1. hip/upper body pose - hip more on top hip more on top of your feet. Avoid hip is too far back.
+
