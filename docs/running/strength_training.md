@@ -78,6 +78,17 @@ Various other foot drills also helps to improve self-awareness of leg movement.
 
 Trail running is also a very good way to keep your foot swift.
 
+### Eccentric vs Isometric vs Concentric
+
+| Type of Exercise | Muscle Action                                        | Change in Muscle Length           | Primary Benefits                                                                      | Examples                                                                                 |
+|------------------|------------------------------------------------------|-----------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Concentric       | Muscle actively shortens                             | Shortens                          | Building muscle mass and strength                                                     | The upward phase of a bicep curl, standing up from a squat, pushing a dumbbell overhead. |
+| Eccentric        | Muscle actively lengthens                            | Lengthens                         | Increasing muscle strength and size, injury rehabilitation, improving muscle control. | The downward phase of a bicep curl, lowering into a squat, slowly lowering a dumbbell.   |
+| Isometric        | Muscle is activated but length doesn't change        | No change                         | Improving stability and strength at a specific joint angle, injury rehabilitation. Improve/heal Tendon.    | Holding a plank, wall sits, holding a dumbbell at a 90-degree angle.                     |
+| Isotonic         | Muscle tension remains constant while length changes | Shortens and lengthens            | Improving muscular endurance and strength through a full range of motion.             | Most traditional weight training exercises like squats, push-ups, and bicep curls.       |
+| Isokinetic       | Muscle contracts and shortens at a constant speed    | Shortens and lengthens            | Precise strength training and rehabilitation, often using specialized equipment.      | Using a dynamometer for knee extensions, specialized stationary bikes.                   |
+| Plyometric       | Rapid stretching and contracting of muscles          | Rapid lengthening then shortening | Increasing power, speed, and explosiveness.                                           | Box jumps, squat jumps, clapping push-up                                                 |
+
 ## Exercies - By Area
 
 {: .note }

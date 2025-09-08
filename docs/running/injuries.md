@@ -156,6 +156,20 @@ To avoid it, pay special attention to calf stretching/strengthening exercises. Y
 
 Avoid low-heel (or low drop) shoes to reduce load on the tendon. Some amount of cushion can be considered as well.
 
+* Reduce impact - more cushioning, low workload (distance, pace, slope)
+* Rehab exercise
+   * isometric (still-motion) exercise. Stressed relaxation - the only proven exercise to stimulate healing.  tendon slowly extend
+       * the right amount of tension - 70% of max force output (that's a lot!)
+       *  ~30 seconds, 3-6 sets. 2-3 kinds of exercises.  Every 2 days.
+       * make sure recovery to baseline <=24 hours.
+       * For achilles, e.g., isometric calf raise with weights. 
+   * Also acceptible to use slow and eccentric exercise to strengthen the muscles while maintaining reasonable load
+* Nutribution - gelatin (?) & Vitamin C
+* Massage - improve flexibility of connected muscles
+* Healing takes multiple 3-18 months
+
+
+
 ## Anterior cruciate ligament (ACL) injury
 
 (Note, this is mostly my notes from the "Resources" section below)
