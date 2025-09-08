@@ -168,6 +168,35 @@ Avoid low-heel (or low drop) shoes to reduce load on the tendon. Some amount of 
 * Massage - improve flexibility of connected muscles
 * Healing takes multiple 3-18 months
 
+Traditionally, we want to reduce inflammation and pain to get back to running quickly. It might treat the sympton, but may result a poorly recovered tendon. 
+
+Different stages of injury:
+1. Stage 1: Reactive Tendinopathy - acute, non-inflammatory - easy to recover
+1. Stage 2: Tendon Dysrepair - if continue to be overloaded. Healing is increasely attempted, but is disorganized. Still reversible with proper treatment and rehabilitation.
+1. Statge 3: Degenerative Tendinopathy - Large structure disorganization and breakdown. 
+
+Sample exercise
+
+1. Phase 1: Isometrics & Basic Loading (Approx. Weeks 0-2):
+    * Goals: Settle tendon reactivity, introduce pain-free load.
+    * Interventions: Seated or standing isometric calf raises (3-5 sets of 45s holds). Progress to isotonic, two-legged heel raises on a flat surface (3 sets of 15). Avoid stretching into deep dorsiflexion.   
+    * Progression Criteria: Tolerable pain (<4/10) during exercises; no morning stiffness flare-up.
+1. Phase 2: Heavy Slow Resistance (HSR) (Approx. Weeks 2-12):
+    * Goals: Build robust strength in the gastrocnemius and soleus muscles.
+    * Interventions: Perform HSR 3x/week, progressing load from 15RM to 6RM.   
+        * Standing Straight-Knee Calf Raises: (Targets gastrocnemius) 3-4 sets.
+        * Seated Bent-Knee Calf Raises: (Targets soleus) 3-4 sets. Use a slow tempo (3s concentric, 3s eccentric). Perform on a leg press, Smith machine, or with a backpack for added weight.
+    * Progression Criteria: Consistent strength progression with good form and tolerable pain.
+1. Phase 3: Energy Storage & Release (Plyometrics) (Approx. Weeks 8-16+):
+    * Goals: Re-train the tendon's spring-like function.
+    * Interventions: Introduce plyometrics 2x/week.
+        * Quick-rebounding heel raises: (pogo hops) 3 sets of 20.   
+        * Progress to skipping, hopping in place, and eventually box jumps.
+    * Progression Criteria: Able to perform 3x20 pogo hops with minimal pain; demonstrates good control.
+1. Phase 4: Return to Sport (Approx. Week 12+):
+    * Goals: Gradually return to running and sport-specific activities.
+    * Interventions: Implement a structured walk-to-run program. Gradually re-introduce hills, speed work, and sport-specific drills, always guided by the 24-hour pain-monitoring model.   
+    * Progression Criteria: Can complete sport-specific training sessions without a significant flare-up of symptoms.
 
 
 ## Anterior cruciate ligament (ACL) injury
