@@ -4,7 +4,7 @@ parent: Anatomy
 ---
 
 ## Overview
-Some details in [Achilles tendon]()
+Some details in [Achilles tendon](../../injurie)
 
 
 ## Exercises
