@@ -137,6 +137,13 @@ The figure below ([^5]) shows the timing of protein synthesis post exercise:
 
 ![protein_time_decay]({{ site.baseurl }}/assets/images/running/protein_time_decay.png)
 
+## Fueling For Health vs For Performance
+Most of the discussion so far has been fueling for performance. How to fuel your body to achieve the best performance or recovery. 
+
+However, to majority of the runners, health is often the top priority. High intake of sugar and protein, low fiber will likely be frowned by typical wisdom of health.  Spiky blood sugar is not a fun for anyone even during exercise.
+
+While many tips about taking high energy fuel during race is probably safe, such style is probably not the best for "normal" day exercises. Personally I would like to take a mild approach to emphasize on post-train recovery, while ensuring sufficient and balanced overall nutrition. 
+
 ## Reference
 
 [^1]: [Marathon Fueling Techniques: Physiologic Understanding and a Proposed Intake Schedule](https://journals.lww.com/nsca-scj/Fulltext/2008/10000/Marathon_Fueling_Techniques__Physiologic.9.aspx).
