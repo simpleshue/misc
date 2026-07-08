@@ -128,3 +128,75 @@ For beginners though, tempo still offers training benefit. But it may also incre
 1. Lactate Threshold Pace - the max pace one can sustain for about 1 hour
 1. 10k
 1. 5k
+
+
+## A World of Different Pacing Methods
+
+
+Here is a breakdown of the pacing methodologies we have covered, how they work, and when to deploy them in your training.
+
+### 1. Absolute Pace
+
+-   **How it works:** Running a specific minutes-per-mile or kilometer (e.g., 8:00/mile) as measured by standard GPS.
+    
+-   **Pros:** Directly aligns with race time goals; simple to understand and track on any device.
+    
+-   **Cons:** Ignores terrain (hills), weather (heat/humidity), and daily biological fatigue, which can lead to overtraining if you force a pace your body isn't ready for.
+    
+-   **Best for:** **Race** day execution (on relatively flat courses) and **track workouts** where precision is required. Also suitable for relatively flat courses with short intervals (where HR is not fast enough to be picked up).
+    
+
+### 2. Effort (Grade Adjsuted) Pace 
+
+-   **How it works:** A Grade-Adjusted Pace that translates the physical strain of running on hills into the equivalent flat-ground pace. In Coros, it also adjusts to your baseline fitness.
+    
+-   **Pros:** Provides instantaneous feedback that doesn't suffer from heart rate lag; keeps your physical exertion in the correct zone regardless of elevation changes.
+    
+-   **Cons:** Proprietary to the Coros ecosystem; relies heavily on the algorithm accurately understanding your specific hill-running biomechanics.
+    
+-   **Best for:** **Rolling hills**, **trail runs**, and **structured intervals** off the track where you want steady effort without relying on delayed heart rate data.
+    
+
+### 3. Lactate Threshold Pace
+
+-   **How it works:** The pace at which your body produces lactic acid faster than it can clear it. Used by platforms like Coros EvoLab to anchor all other training zones.
+    
+-   **Pros:** Highly individualized to your current fitness level; scales training intensities automatically as you get faster over a season.
+    
+-   **Cons:** Needs accurate baseline data (like a 5K race or a dedicated threshold test) to be calculated correctly; still subject to the "hills and heat" flaws of standard pace.
+    
+-   **Best for:** Setting structured training blocks and dictating the specific speed for tempo or "comfortably hard" runs. E.g., **long run, tempo or long intervals**. 
+    
+
+### 4. VDOT / VO2Max
+
+-   **How it works:** A scientific formula that uses a recent race result to determine your current cardiovascular fitness, prescribing exact paces for easy, threshold, and interval runs.
+    
+-   **Pros:** Extremely accurate for scaling workouts; ensures you are targeting the exact physiological adaptations without over-stressing your system.
+    
+-   **Cons:** Can be rigid; does not natively account for environmental factors like heat, altitude, or steep trails without manual calculator adjustments. (Instead,  one may adjust for grade and other factors to achieve the accuracy benefit).
+    
+-   **Best for:** **Flat track** workouts, precise **interval** training, and strictly structured marathon or half-marathon training plans.
+    
+
+### 5. Lactate Threshold HR (Heart Rate)
+
+-   **How it works:** Training in specific heart rate zones anchored to the BPM where lactic acid rapidly accumulates.
+    
+-   **Pros:** The ultimate biological truth-teller that automatically adjusts your prescribed effort for heat, humidity, hills, stress, and fatigue.
+    
+-   **Cons:** Heart rate monitors (especially optical wrist sensors) can lag significantly during short intervals; numbers can be easily skewed by caffeine or poor sleep.
+    
+-   **Best for:** Daily **base**-building, **long endurance runs**, and **recovery** days to ensure you keep "easy days easy."
+    
+
+### 6. RPE (Rate of Perceived Exertion)
+
+-   **How it works:** A subjective 1-10 scale rating how hard the effort feels to you in the given moment.
+    
+-   **Pros:** Free, requires no technology, and works flawlessly across any terrain, weather condition, or fatigue level.
+    
+-   **Cons:** Requires significant running experience to gauge accurately; runners often underestimate their exertion when feeling fresh at the start of a workout.
+    
+-   **Best for:** Trail running, extremely hot days, and acting as a "safety valve" on race day when your absolute pace feels unexpectedly difficult.
+
