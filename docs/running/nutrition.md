@@ -18,7 +18,7 @@ Generally, activities shorter than 90 minutes do not require additional fueling.
 
 On the race day, it suggests targeting 2 to 4 grams of carbs per kilogram of body weight two to four hours prior to your race. (some also recommended 0.5 gram for per pound, whic his effectively 1 gram per kg).
 
-Then, 15 minutes before the start, eat either a couple Medjool dates or a gel.
+Then, **5 minutes** before the start, eat either a couple Medjool dates or a gel. Note, taking it too early can cause an insulin spike, which makes the running hard!
 
 Generally, multi-day carb loading isn't necessary for training. But long-runs can be a perfect opportunity to practice race-day carb loading to make sure your body is comfortable with the type of food and schedule.
 
@@ -86,6 +86,7 @@ Interesting knowledge:
 #### Suggestion for ingestion during exercise
 
 * Every 20 minutes, ingest a beverage of 3~6% of cabohydrate, with 1-1.5% of protein.
+* Stop taking them 30-45 mins before the finish line. It takes time to digest and "burn" the extra energy.  Actually, taking too late can use unnecessary blood sugar spike/insulin reaction, which may be a health concern.
 
 ### Post Exercise
 
