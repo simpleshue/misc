@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/running/weather.md",
+                "file": "docs/running/_weather.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weather"
+              "title": "_weather"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "b12883372f07af97",
   "lastOpenFiles": [
+    "_draft",
     "README.md",
     "index.md",
     "docs/running/heart_rate.md",
