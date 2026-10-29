@@ -16,12 +16,7 @@ _site/
 vendor/
 
 
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/graph.json
-.obsidian/cache/
-.obsidian/indexed/
-.DS_Store
+.obsidian/**
 Thumbs.db
 *.sync-conflict-*
 .trash
